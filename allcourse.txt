@@ -1,0 +1,8094 @@
+{
+  "meta": {
+    "requests": 127,
+    "timestamp": 1458329768,
+    "status": 200,
+    "message": "Request successful",
+    "method_id": 1511,
+    "method": {}
+  },
+  "data": [
+    {
+      "subject": "ACC",
+      "catalog_number": "605",
+      "units": 0.5,
+      "title": "International Tax"
+    },
+    {
+      "subject": "ACC",
+      "catalog_number": "606",
+      "units": 0.5,
+      "title": "Business Valuations"
+    },
+    {
+      "subject": "ACC",
+      "catalog_number": "609",
+      "units": 0.5,
+      "title": "Financial Statement Analysis"
+    },
+    {
+      "subject": "ACC",
+      "catalog_number": "610",
+      "units": 0.5,
+      "title": "Public Accounting Practice"
+    },
+    {
+      "subject": "ACC",
+      "catalog_number": "622",
+      "units": 0.5,
+      "title": "Electronic Commerce"
+    },
+    {
+      "subject": "ACC",
+      "catalog_number": "623",
+      "units": 0.5,
+      "title": "Business Technology Law"
+    },
+    {
+      "subject": "ACC",
+      "catalog_number": "626",
+      "units": 0.5,
+      "title": "IT Assurance and Computer-Assisted Audit Techniques"
+    },
+    {
+      "subject": "ACC",
+      "catalog_number": "662",
+      "units": 0.5,
+      "title": "Tax Policy"
+    },
+    {
+      "subject": "ACC",
+      "catalog_number": "690",
+      "units": 0.5,
+      "title": "Topics in Accounting"
+    },
+    {
+      "subject": "ACINTY",
+      "catalog_number": "600",
+      "units": 0,
+      "title": "Academic Integrity Module"
+    },
+    {
+      "subject": "ACINTY",
+      "catalog_number": "610",
+      "units": 0,
+      "title": "Academic Integrity Module"
+    },
+    {
+      "subject": "ACINTY",
+      "catalog_number": "620",
+      "units": 0,
+      "title": "Academic Integrity Module"
+    },
+    {
+      "subject": "ACINTY",
+      "catalog_number": "630",
+      "units": 0,
+      "title": "Academic Integrity Module"
+    },
+    {
+      "subject": "ACINTY",
+      "catalog_number": "640",
+      "units": 0,
+      "title": "Academic Integrity Module"
+    },
+    {
+      "subject": "ACINTY",
+      "catalog_number": "650",
+      "units": 0,
+      "title": "Academic Integrity Module"
+    },
+    {
+      "subject": "ACINTY",
+      "catalog_number": "660",
+      "units": 0,
+      "title": "Academic Integrity Module"
+    },
+    {
+      "subject": "ACTSC",
+      "catalog_number": "221",
+      "units": 0.5,
+      "title": "Mathematics of Investment"
+    },
+    {
+      "subject": "ACTSC",
+      "catalog_number": "231",
+      "units": 0.5,
+      "title": "Mathematics of Finance"
+    },
+    {
+      "subject": "ACTSC",
+      "catalog_number": "232",
+      "units": 0.5,
+      "title": "Life Contingencies 1"
+    },
+    {
+      "subject": "ACTSC",
+      "catalog_number": "331",
+      "units": 0.5,
+      "title": "Life Contingencies 2"
+    },
+    {
+      "subject": "ACTSC",
+      "catalog_number": "371",
+      "units": 0.5,
+      "title": "Introduction to Investments"
+    },
+    {
+      "subject": "ACTSC",
+      "catalog_number": "372",
+      "units": 0.5,
+      "title": "Corporate Finance"
+    },
+    {
+      "subject": "ACTSC",
+      "catalog_number": "431",
+      "units": 0.5,
+      "title": "Loss Models 1"
+    },
+    {
+      "subject": "ACTSC",
+      "catalog_number": "432",
+      "units": 0.5,
+      "title": "Loss Models 2"
+    },
+    {
+      "subject": "ACTSC",
+      "catalog_number": "445",
+      "units": 0.5,
+      "title": "Quantitative Risk Management"
+    },
+    {
+      "subject": "ACTSC",
+      "catalog_number": "631",
+      "units": 0.5,
+      "title": "Financial Mathematics III"
+    },
+    {
+      "subject": "ACTSC",
+      "catalog_number": "632",
+      "units": 0.5,
+      "title": "Life Insurance Mathematics III"
+    },
+    {
+      "subject": "ACTSC",
+      "catalog_number": "633",
+      "units": 0.5,
+      "title": "Actuarial Risk Management"
+    },
+    {
+      "subject": "ACTSC",
+      "catalog_number": "634",
+      "units": 0.5,
+      "title": "Quantitative Risk Management"
+    },
+    {
+      "subject": "ACTSC",
+      "catalog_number": "635",
+      "units": 0.5,
+      "title": "Profession Communications in Actuarial Science"
+    },
+    {
+      "subject": "ACTSC",
+      "catalog_number": "831",
+      "units": 0.5,
+      "title": "Loss Models 1"
+    },
+    {
+      "subject": "ACTSC",
+      "catalog_number": "832",
+      "units": 0.5,
+      "title": "Loss Models 2"
+    },
+    {
+      "subject": "ACTSC",
+      "catalog_number": "845",
+      "units": 0.5,
+      "title": "Quantitative Risk Management"
+    },
+    {
+      "subject": "ACTSC",
+      "catalog_number": "991",
+      "units": 0.5,
+      "title": "Topics in Actuarial Science"
+    },
+    {
+      "subject": "AFM",
+      "catalog_number": "101",
+      "units": 0.5,
+      "title": "Introduction to Financial Accounting"
+    },
+    {
+      "subject": "AFM",
+      "catalog_number": "102",
+      "units": 0.5,
+      "title": "Introduction to Managerial Accounting"
+    },
+    {
+      "subject": "AFM",
+      "catalog_number": "211",
+      "units": 0.5,
+      "title": "Connections to Business Context"
+    },
+    {
+      "subject": "AFM",
+      "catalog_number": "231",
+      "units": 0.5,
+      "title": "Business Law"
+    },
+    {
+      "subject": "AFM",
+      "catalog_number": "241",
+      "units": 0.5,
+      "title": "Introduction to Business Information Technology"
+    },
+    {
+      "subject": "AFM",
+      "catalog_number": "272",
+      "units": 0.5,
+      "title": "Corporate Finance 1"
+    },
+    {
+      "subject": "AFM",
+      "catalog_number": "274",
+      "units": 0.5,
+      "title": "Managerial Finance 2"
+    },
+    {
+      "subject": "AFM",
+      "catalog_number": "280",
+      "units": 0.5,
+      "title": "Introduction to Organizational Behaviour"
+    },
+    {
+      "subject": "AFM",
+      "catalog_number": "311",
+      "units": 0.5,
+      "title": "Connections to Ethical Context"
+    },
+    {
+      "subject": "AFM",
+      "catalog_number": "322",
+      "units": 0.5,
+      "title": "Derivative Securities"
+    },
+    {
+      "subject": "AFM",
+      "catalog_number": "328",
+      "units": 0.25,
+      "title": "Investment Management - Junior Analyst"
+    },
+    {
+      "subject": "AFM",
+      "catalog_number": "329",
+      "units": 0.25,
+      "title": "Investment Management - Senior Analyst"
+    },
+    {
+      "subject": "AFM",
+      "catalog_number": "333",
+      "units": 0.5,
+      "title": "International Business"
+    },
+    {
+      "subject": "AFM",
+      "catalog_number": "351",
+      "units": 0.5,
+      "title": "Audit Strategy"
+    },
+    {
+      "subject": "AFM",
+      "catalog_number": "363",
+      "units": 0.5,
+      "title": "Taxation 2 - Integration"
+    },
+    {
+      "subject": "AFM",
+      "catalog_number": "372",
+      "units": 0.5,
+      "title": "Corporate Finance 2"
+    },
+    {
+      "subject": "AFM",
+      "catalog_number": "416",
+      "units": 0.5,
+      "title": "Special Topics in Finance"
+    },
+    {
+      "subject": "AFM",
+      "catalog_number": "417",
+      "units": 0.5,
+      "title": "Special Topics in Accounting"
+    },
+    {
+      "subject": "AFM",
+      "catalog_number": "424",
+      "units": 0.5,
+      "title": "Equity Investments"
+    },
+    {
+      "subject": "AFM",
+      "catalog_number": "428",
+      "units": 0.25,
+      "title": "Investment Management - Junior Portfolio Manager"
+    },
+    {
+      "subject": "AFM",
+      "catalog_number": "429",
+      "units": 0.25,
+      "title": "Investment Management - Senior Portfolio Manager"
+    },
+    {
+      "subject": "AFM",
+      "catalog_number": "433",
+      "units": 0.5,
+      "title": "Business Strategy"
+    },
+    {
+      "subject": "AFM",
+      "catalog_number": "481",
+      "units": 0.5,
+      "title": "Cost Management Systems"
+    },
+    {
+      "subject": "AFM",
+      "catalog_number": "491",
+      "units": 0.5,
+      "title": "Advanced Financial Accounting"
+    },
+    {
+      "subject": "AFM",
+      "catalog_number": "492",
+      "units": 0.5,
+      "title": "Financial Statement Analysis"
+    },
+    {
+      "subject": "AHS",
+      "catalog_number": "150",
+      "units": 0.5,
+      "title": "Foundations of Human Anatomy and Physiology"
+    },
+    {
+      "subject": "AMATH",
+      "catalog_number": "231",
+      "units": 0.5,
+      "title": "Calculus 4"
+    },
+    {
+      "subject": "AMATH",
+      "catalog_number": "242",
+      "units": 0.5,
+      "title": "Introduction to Computational Mathematics"
+    },
+    {
+      "subject": "AMATH",
+      "catalog_number": "250",
+      "units": 0.5,
+      "title": "Introduction to Differential Equations"
+    },
+    {
+      "subject": "AMATH",
+      "catalog_number": "332",
+      "units": 0.5,
+      "title": "Applied Complex Analysis"
+    },
+    {
+      "subject": "AMATH",
+      "catalog_number": "351",
+      "units": 0.5,
+      "title": "Ordinary Differential Equations 2"
+    },
+    {
+      "subject": "AMATH",
+      "catalog_number": "353",
+      "units": 0.5,
+      "title": "Partial Differential Equations 1"
+    },
+    {
+      "subject": "AMATH",
+      "catalog_number": "495",
+      "units": 0.5,
+      "title": "Reading Course"
+    },
+    {
+      "subject": "AMATH",
+      "catalog_number": "900",
+      "units": 0.5,
+      "title": "Topics in Applied Mathematics"
+    },
+    {
+      "subject": "ANTH",
+      "catalog_number": "100",
+      "units": 0.5,
+      "title": "Introduction to Anthropology"
+    },
+    {
+      "subject": "ANTH",
+      "catalog_number": "201",
+      "units": 0.5,
+      "title": "Archaeological Anthropology"
+    },
+    {
+      "subject": "ANTH",
+      "catalog_number": "202",
+      "units": 0.5,
+      "title": "Social and Cultural Anthropology"
+    },
+    {
+      "subject": "ANTH",
+      "catalog_number": "347W",
+      "units": 0.5,
+      "title": "Science, Tech, & Culture (WLU)"
+    },
+    {
+      "subject": "ANTH",
+      "catalog_number": "372",
+      "units": 0.5,
+      "title": "Archaeological Field School"
+    },
+    {
+      "subject": "ANTH",
+      "catalog_number": "391",
+      "units": 0.5,
+      "title": "Reading in Anthropology"
+    },
+    {
+      "subject": "ARBUS",
+      "catalog_number": "200",
+      "units": 0.5,
+      "title": "Entrepreneurship Principles and Practices"
+    },
+    {
+      "subject": "ARBUS",
+      "catalog_number": "202",
+      "units": 0.5,
+      "title": "Professional and Business Ethics"
+    },
+    {
+      "subject": "ARBUS",
+      "catalog_number": "301",
+      "units": 0.5,
+      "title": "International Business"
+    },
+    {
+      "subject": "ARCH",
+      "catalog_number": "225",
+      "units": 0.5,
+      "title": "Theory and Design of the Contemporary Landscape"
+    },
+    {
+      "subject": "ARCH",
+      "catalog_number": "248",
+      "units": 1,
+      "title": "Enlightenment, Romanticism and the 19th Century"
+    },
+    {
+      "subject": "ARCH",
+      "catalog_number": "264",
+      "units": 0.5,
+      "title": "Building Science"
+    },
+    {
+      "subject": "ARCH",
+      "catalog_number": "276",
+      "units": 0.5,
+      "title": "Timber: Design, Structure and Construction"
+    },
+    {
+      "subject": "ARCH",
+      "catalog_number": "277",
+      "units": 0.5,
+      "title": "Timber: Design, Structure and Construction for Engineers"
+    },
+    {
+      "subject": "ARCH",
+      "catalog_number": "293",
+      "units": 1.5,
+      "title": "Design Studio"
+    },
+    {
+      "subject": "ARCH",
+      "catalog_number": "346",
+      "units": 0.5,
+      "title": "Competitions in Architecture"
+    },
+    {
+      "subject": "ARCH",
+      "catalog_number": "385",
+      "units": 0.5,
+      "title": "Architectural Research"
+    },
+    {
+      "subject": "ARCH",
+      "catalog_number": "425",
+      "units": 0.5,
+      "title": "Theory and Design of the Contemporary Landscape"
+    },
+    {
+      "subject": "ARCH",
+      "catalog_number": "442",
+      "units": 0.5,
+      "title": "Contemporary Architectural Theory"
+    },
+    {
+      "subject": "ARCH",
+      "catalog_number": "473",
+      "units": 0.5,
+      "title": "Technical Report"
+    },
+    {
+      "subject": "ARCH",
+      "catalog_number": "493",
+      "units": 1.5,
+      "title": "Design Studio/Comprehensive Building Design"
+    },
+    {
+      "subject": "ARCH",
+      "catalog_number": "684",
+      "units": 0.5,
+      "title": "Special Topics in Architecture"
+    },
+    {
+      "subject": "ARCH",
+      "catalog_number": "685",
+      "units": 0.5,
+      "title": "Readings and Seminars in Architecture"
+    },
+    {
+      "subject": "ARCH",
+      "catalog_number": "686",
+      "units": 0.5,
+      "title": "Competitions in Architecture"
+    },
+    {
+      "subject": "ARCHL",
+      "catalog_number": "225W",
+      "units": 0.5,
+      "title": "History of Ancient Greece (WLU"
+    },
+    {
+      "subject": "ARTS",
+      "catalog_number": "190",
+      "units": 0.5,
+      "title": "First-Year Topics in Arts Disciplines"
+    },
+    {
+      "subject": "ARTS",
+      "catalog_number": "280",
+      "units": 0.5,
+      "title": "Statistics for Arts Students"
+    },
+    {
+      "subject": "ARTS",
+      "catalog_number": "367",
+      "units": 2.5,
+      "title": "Arts Study Abroad"
+    },
+    {
+      "subject": "AVIA",
+      "catalog_number": "102",
+      "units": 0.5,
+      "title": "Professional Pilot Program Course II"
+    },
+    {
+      "subject": "AVIA",
+      "catalog_number": "205",
+      "units": 0.5,
+      "title": "Professional Pilot Program Course V"
+    },
+    {
+      "subject": "AVIA",
+      "catalog_number": "408",
+      "units": 0.5,
+      "title": "Professional Pilot Program Course VIII"
+    },
+    {
+      "subject": "BASE",
+      "catalog_number": "42",
+      "units": 0.5,
+      "title": "Academic Skills"
+    },
+    {
+      "subject": "BASE",
+      "catalog_number": "44",
+      "units": 0.5,
+      "title": "Writing Skills"
+    },
+    {
+      "subject": "BASE",
+      "catalog_number": "46",
+      "units": 0.5,
+      "title": "Oral Skills"
+    },
+    {
+      "subject": "BE",
+      "catalog_number": "603",
+      "units": 0.5,
+      "title": "Operations and Supply Chain Management"
+    },
+    {
+      "subject": "BE",
+      "catalog_number": "605",
+      "units": 0.5,
+      "title": "Project Management"
+    },
+    {
+      "subject": "BET",
+      "catalog_number": "100",
+      "units": 0.5,
+      "title": "Essentials of Entrepreneurial Behaviour"
+    },
+    {
+      "subject": "BET",
+      "catalog_number": "300",
+      "units": 0.5,
+      "title": "Foundations of Venture Creation"
+    },
+    {
+      "subject": "BET",
+      "catalog_number": "310",
+      "units": 0.5,
+      "title": "Enterprise Co-op Entrepreneurship Planning and Execution"
+    },
+    {
+      "subject": "BET",
+      "catalog_number": "320",
+      "units": 0.5,
+      "title": "Introduction to Commercialization Management"
+    },
+    {
+      "subject": "BET",
+      "catalog_number": "410A",
+      "units": 0.25,
+      "title": "Capstone Entrepreneurship Planning and Execution Part 1"
+    },
+    {
+      "subject": "BET",
+      "catalog_number": "411",
+      "units": 0.5,
+      "title": "Capstone Entrepreneurship Planning and Execution"
+    },
+    {
+      "subject": "BET",
+      "catalog_number": "412",
+      "units": 0.5,
+      "title": "Advanced Topics in Entrepreneurship"
+    },
+    {
+      "subject": "BET",
+      "catalog_number": "600",
+      "units": 0.5,
+      "title": "Applied Business Leadership Skills for Entrepreneurs"
+    },
+    {
+      "subject": "BET",
+      "catalog_number": "601",
+      "units": 0.5,
+      "title": "Strategically Managing the Entrepreneurial Organization"
+    },
+    {
+      "subject": "BET",
+      "catalog_number": "602",
+      "units": 0.5,
+      "title": "Marketing Strategies for New Technology-based Ventures"
+    },
+    {
+      "subject": "BET",
+      "catalog_number": "603",
+      "units": 0.5,
+      "title": "Entrepreneurial Finance for the Technology-based Enterprise"
+    },
+    {
+      "subject": "BET",
+      "catalog_number": "604",
+      "units": 0.5,
+      "title": "New Technology-based Venture Creation"
+    },
+    {
+      "subject": "BET",
+      "catalog_number": "605",
+      "units": 0.5,
+      "title": "Essential Accounting for Entrepreneurs"
+    },
+    {
+      "subject": "BET",
+      "catalog_number": "607",
+      "units": 0.5,
+      "title": "Managing Technological Innovation"
+    },
+    {
+      "subject": "BET",
+      "catalog_number": "608",
+      "units": 0.5,
+      "title": "Entrepreneurial Application of Technology"
+    },
+    {
+      "subject": "BET",
+      "catalog_number": "620",
+      "units": 0.5,
+      "title": "Social Entrepreneurship and Corporate Social Responsibility"
+    },
+    {
+      "subject": "BET",
+      "catalog_number": "700",
+      "units": 0.5,
+      "title": "Topics in Business, Entrepreneurship and Technology"
+    },
+    {
+      "subject": "BIOL",
+      "catalog_number": "120",
+      "units": 0.5,
+      "title": "Introduction to Plant Structure and Function"
+    },
+    {
+      "subject": "BIOL",
+      "catalog_number": "130",
+      "units": 0.5,
+      "title": "Introductory Cell Biology"
+    },
+    {
+      "subject": "BIOL",
+      "catalog_number": "130L",
+      "units": 0.25,
+      "title": "Cell Biology Laboratory"
+    },
+    {
+      "subject": "BIOL",
+      "catalog_number": "239",
+      "units": 0.5,
+      "title": "Genetics"
+    },
+    {
+      "subject": "BIOL",
+      "catalog_number": "240",
+      "units": 0.5,
+      "title": "Fundamentals of Microbiology"
+    },
+    {
+      "subject": "BIOL",
+      "catalog_number": "240L",
+      "units": 0.25,
+      "title": "Microbiology Laboratory"
+    },
+    {
+      "subject": "BIOL",
+      "catalog_number": "241",
+      "units": 0.5,
+      "title": "Introduction to Applied Microbiology"
+    },
+    {
+      "subject": "BIOL",
+      "catalog_number": "273",
+      "units": 0.5,
+      "title": "Principles of Human Physiology 1"
+    },
+    {
+      "subject": "BIOL",
+      "catalog_number": "273L",
+      "units": 0.25,
+      "title": "Human Physiology 1 Laboratory"
+    },
+    {
+      "subject": "BIOL",
+      "catalog_number": "303",
+      "units": 0.5,
+      "title": "Introductory Developmental Biology and Embryology"
+    },
+    {
+      "subject": "BIOL",
+      "catalog_number": "308",
+      "units": 0.5,
+      "title": "Principles of Molecular Biology"
+    },
+    {
+      "subject": "BIOL",
+      "catalog_number": "309",
+      "units": 0.5,
+      "title": "Analytical Methods in Molecular Biology"
+    },
+    {
+      "subject": "BIOL",
+      "catalog_number": "342",
+      "units": 0.5,
+      "title": "Molecular Biotechnology 1"
+    },
+    {
+      "subject": "BIOL",
+      "catalog_number": "354",
+      "units": 0.5,
+      "title": "Environmental Toxicology 1"
+    },
+    {
+      "subject": "BIOL",
+      "catalog_number": "490A",
+      "units": 0.5,
+      "title": "Biology Field Course I"
+    },
+    {
+      "subject": "BIOL",
+      "catalog_number": "490B",
+      "units": 0.5,
+      "title": "Biology Field Course II"
+    },
+    {
+      "subject": "BIOL",
+      "catalog_number": "492",
+      "units": 0.5,
+      "title": "Marine Mammals and Seabirds"
+    },
+    {
+      "subject": "BIOL",
+      "catalog_number": "498A",
+      "units": 0.25,
+      "title": "Short Biology Field Course 1"
+    },
+    {
+      "subject": "BIOL",
+      "catalog_number": "498B",
+      "units": 0.25,
+      "title": "Short Biology Field Course 2"
+    },
+    {
+      "subject": "BIOL",
+      "catalog_number": "499A",
+      "units": 0.5,
+      "title": "Senior Honours Project"
+    },
+    {
+      "subject": "BIOL",
+      "catalog_number": "499B",
+      "units": 0.5,
+      "title": "Senior Honours Project"
+    },
+    {
+      "subject": "BIOL",
+      "catalog_number": "622",
+      "units": 0.5,
+      "title": "Selected Topics in Plant Physiology"
+    },
+    {
+      "subject": "BIOL",
+      "catalog_number": "680",
+      "units": 0.5,
+      "title": "Specialized Studies of Selected Research Procedures, Strategies or Topics"
+    },
+    {
+      "subject": "BIOL",
+      "catalog_number": "681",
+      "units": 0.5,
+      "title": "Specialized Studies of Selected Research Procedures, Strategies or Topics"
+    },
+    {
+      "subject": "BME",
+      "catalog_number": "202",
+      "units": 0,
+      "title": "Seminar"
+    },
+    {
+      "subject": "BME",
+      "catalog_number": "252",
+      "units": 0.5,
+      "title": "Linear Signals and Systems"
+    },
+    {
+      "subject": "BME",
+      "catalog_number": "282",
+      "units": 0.5,
+      "title": "Materials Science for Biomedical Engineers"
+    },
+    {
+      "subject": "BME",
+      "catalog_number": "284",
+      "units": 0.5,
+      "title": "Physiological and Biological Systems"
+    },
+    {
+      "subject": "BME",
+      "catalog_number": "284L",
+      "units": 0.25,
+      "title": "Physiology and Anatomy Laboratory"
+    },
+    {
+      "subject": "BME",
+      "catalog_number": "292",
+      "units": 0.5,
+      "title": "Digital Systems"
+    },
+    {
+      "subject": "BME",
+      "catalog_number": "292L",
+      "units": 0.25,
+      "title": "Digital Systems Laboratory"
+    },
+    {
+      "subject": "BUS",
+      "catalog_number": "111W",
+      "units": 0.5,
+      "title": "Introduction to Business Organization (WLU)"
+    },
+    {
+      "subject": "BUS",
+      "catalog_number": "121W",
+      "units": 0.5,
+      "title": "Functional Areas of the Organization (WLU)"
+    },
+    {
+      "subject": "BUS",
+      "catalog_number": "127W",
+      "units": 0.5,
+      "title": "Intro to Financial Acc (WLU)"
+    },
+    {
+      "subject": "BUS",
+      "catalog_number": "231W",
+      "units": 0.5,
+      "title": "Business Law (WLU)"
+    },
+    {
+      "subject": "BUS",
+      "catalog_number": "233W",
+      "units": 0.5,
+      "title": "Personal Finance (WLU)"
+    },
+    {
+      "subject": "BUS",
+      "catalog_number": "247W",
+      "units": 0.5,
+      "title": "Managerial Accounting (WLU)"
+    },
+    {
+      "subject": "BUS",
+      "catalog_number": "283W",
+      "units": 0.5,
+      "title": "Financial Management 1 (WLU)"
+    },
+    {
+      "subject": "BUS",
+      "catalog_number": "352W",
+      "units": 0.5,
+      "title": "Intro to Marketing (WLU)"
+    },
+    {
+      "subject": "BUS",
+      "catalog_number": "353W",
+      "units": 0.5,
+      "title": "Intro Risk Mang't & Ins. (WLU)"
+    },
+    {
+      "subject": "BUS",
+      "catalog_number": "354W",
+      "units": 0.5,
+      "title": "Human Resources Managemen(WLU)"
+    },
+    {
+      "subject": "BUS",
+      "catalog_number": "357W",
+      "units": 0.5,
+      "title": "Taxation (WLU)"
+    },
+    {
+      "subject": "BUS",
+      "catalog_number": "362W",
+      "units": 0.5,
+      "title": "Building & Managing Pro(WLU)"
+    },
+    {
+      "subject": "BUS",
+      "catalog_number": "385W",
+      "units": 0.5,
+      "title": "Operations Management 1 (WLU)"
+    },
+    {
+      "subject": "BUS",
+      "catalog_number": "387W",
+      "units": 0.5,
+      "title": "Intermediate Accounting 1(WLU)"
+    },
+    {
+      "subject": "BUS",
+      "catalog_number": "393W",
+      "units": 0.5,
+      "title": "Financial Management 2 (WLU)"
+    },
+    {
+      "subject": "BUS",
+      "catalog_number": "395W",
+      "units": 0.5,
+      "title": "Operations Management 2 (WLU)"
+    },
+    {
+      "subject": "BUS",
+      "catalog_number": "397W",
+      "units": 0.5,
+      "title": "Intermediate Account 2 (WLU)"
+    },
+    {
+      "subject": "BUS",
+      "catalog_number": "398W",
+      "units": 0.5,
+      "title": "Organizat'nal Behaviour 2(WLU)"
+    },
+    {
+      "subject": "BUS",
+      "catalog_number": "400W",
+      "units": 0.5,
+      "title": "Adv Equity Analysis 1 (WLU)"
+    },
+    {
+      "subject": "BUS",
+      "catalog_number": "408W",
+      "units": 0.5,
+      "title": "Recruitment and Selection(WLU)"
+    },
+    {
+      "subject": "BUS",
+      "catalog_number": "410W",
+      "units": 0.5,
+      "title": "Adv Equity Analysis 2 (WLU)"
+    },
+    {
+      "subject": "BUS",
+      "catalog_number": "412W",
+      "units": 0.5,
+      "title": "Services Marketing Mgt (WLU)"
+    },
+    {
+      "subject": "BUS",
+      "catalog_number": "413W",
+      "units": 0.5,
+      "title": "Pers. Fin. Plan. & Manage(WLU)"
+    },
+    {
+      "subject": "BUS",
+      "catalog_number": "415W",
+      "units": 0.5,
+      "title": "Intro Mgmt Info Systems (WLU)"
+    },
+    {
+      "subject": "BUS",
+      "catalog_number": "417W",
+      "units": 0.5,
+      "title": "Fin Statement Analysis (WLU)"
+    },
+    {
+      "subject": "BUS",
+      "catalog_number": "419W",
+      "units": 0.5,
+      "title": "Property & Liabil Insur (WLU)"
+    },
+    {
+      "subject": "BUS",
+      "catalog_number": "423W",
+      "units": 0.5,
+      "title": "Options, Futures & Swaps(WLU)"
+    },
+    {
+      "subject": "BUS",
+      "catalog_number": "432W",
+      "units": 0.5,
+      "title": "Consumer Behaviour (WLU)"
+    },
+    {
+      "subject": "BUS",
+      "catalog_number": "440W",
+      "units": 0.5,
+      "title": "New Venture Creation (WLU)"
+    },
+    {
+      "subject": "BUS",
+      "catalog_number": "443W",
+      "units": 0.5,
+      "title": "International Fin'l Mgt (WLU)"
+    },
+    {
+      "subject": "BUS",
+      "catalog_number": "447W",
+      "units": 0.5,
+      "title": "Advanced Auditing (WLU)"
+    },
+    {
+      "subject": "BUS",
+      "catalog_number": "452W",
+      "units": 0.5,
+      "title": "Marketing Strategy (WLU)"
+    },
+    {
+      "subject": "BUS",
+      "catalog_number": "453W",
+      "units": 0.5,
+      "title": "Working Capital Management(WLU"
+    },
+    {
+      "subject": "BUS",
+      "catalog_number": "463W",
+      "units": 0.5,
+      "title": "Adv Corporate Finance (WLU)"
+    },
+    {
+      "subject": "BUS",
+      "catalog_number": "466W",
+      "units": 0.5,
+      "title": "Advanced Taxation (WLU)"
+    },
+    {
+      "subject": "BUS",
+      "catalog_number": "467W",
+      "units": 0.5,
+      "title": "Advanced Management Acct (WLU)"
+    },
+    {
+      "subject": "BUS",
+      "catalog_number": "470W",
+      "units": 0.5,
+      "title": "Brand Communication (WLU)"
+    },
+    {
+      "subject": "BUS",
+      "catalog_number": "472W",
+      "units": 0.5,
+      "title": "Marketing Communications(WLU)"
+    },
+    {
+      "subject": "BUS",
+      "catalog_number": "473W",
+      "units": 0.5,
+      "title": "Investment Management (WLU)"
+    },
+    {
+      "subject": "BUS",
+      "catalog_number": "474W",
+      "units": 0.5,
+      "title": "Training & Development (WLU)"
+    },
+    {
+      "subject": "BUS",
+      "catalog_number": "477W",
+      "units": 0.5,
+      "title": "Auditing (WLU)"
+    },
+    {
+      "subject": "BUS",
+      "catalog_number": "479W",
+      "units": 0.5,
+      "title": "High-Tech Marketing (WLU)"
+    },
+    {
+      "subject": "BUS",
+      "catalog_number": "480W",
+      "units": 0.5,
+      "title": "Independent Research (WLU)"
+    },
+    {
+      "subject": "BUS",
+      "catalog_number": "481W",
+      "units": 0.5,
+      "title": "Business Policy 1 (WLU)"
+    },
+    {
+      "subject": "BUS",
+      "catalog_number": "485W",
+      "units": 0.5,
+      "title": "Environ Manag for Operat (WLU)"
+    },
+    {
+      "subject": "BUS",
+      "catalog_number": "486W",
+      "units": 0.5,
+      "title": "Info Sys Dev, Ctrl&Audit (WLU"
+    },
+    {
+      "subject": "BUS",
+      "catalog_number": "487W",
+      "units": 0.5,
+      "title": "Advanced Accounting (WLU)"
+    },
+    {
+      "subject": "BUS",
+      "catalog_number": "491W",
+      "units": 0.5,
+      "title": "Business Policy 2 (WLU)"
+    },
+    {
+      "subject": "BUS",
+      "catalog_number": "492JW",
+      "units": 0.5,
+      "title": "Marketing & Society (WLU)"
+    },
+    {
+      "subject": "BUS",
+      "catalog_number": "497HW",
+      "units": 0.5,
+      "title": "Integ Cases in Accounting(WLU)"
+    },
+    {
+      "subject": "BUS",
+      "catalog_number": "497JW",
+      "units": 0.5,
+      "title": "Taxation 3 (WLU)"
+    },
+    {
+      "subject": "BUS",
+      "catalog_number": "497KW",
+      "units": 0.5,
+      "title": "Management Controls (WLU)"
+    },
+    {
+      "subject": "CHE",
+      "catalog_number": "101",
+      "units": 0.5,
+      "title": "Chemical Engineering Concepts 2"
+    },
+    {
+      "subject": "CHE",
+      "catalog_number": "102",
+      "units": 0.5,
+      "title": "Chemistry for Engineers"
+    },
+    {
+      "subject": "CHE",
+      "catalog_number": "121",
+      "units": 0.5,
+      "title": "Engineering Computation"
+    },
+    {
+      "subject": "CHE",
+      "catalog_number": "161",
+      "units": 0.5,
+      "title": "Engineering Biology"
+    },
+    {
+      "subject": "CHE",
+      "catalog_number": "202",
+      "units": 0,
+      "title": "Seminar"
+    },
+    {
+      "subject": "CHE",
+      "catalog_number": "211",
+      "units": 0.5,
+      "title": "Fluid Mechanics"
+    },
+    {
+      "subject": "CHE",
+      "catalog_number": "231",
+      "units": 0.5,
+      "title": "Physical Chemistry 2"
+    },
+    {
+      "subject": "CHE",
+      "catalog_number": "241",
+      "units": 0.5,
+      "title": "Materials Science and Engineering"
+    },
+    {
+      "subject": "CHE",
+      "catalog_number": "291",
+      "units": 0.25,
+      "title": "Chemical Engineering Lab 2"
+    },
+    {
+      "subject": "CHE",
+      "catalog_number": "299",
+      "units": 0.25,
+      "title": "Directed Research Project"
+    },
+    {
+      "subject": "CHE",
+      "catalog_number": "301",
+      "units": 0,
+      "title": "Seminar"
+    },
+    {
+      "subject": "CHE",
+      "catalog_number": "312",
+      "units": 0.5,
+      "title": "Mathematics of Heat and Mass Transfer"
+    },
+    {
+      "subject": "CHE",
+      "catalog_number": "314",
+      "units": 0.5,
+      "title": "Chemical Reaction Engineering"
+    },
+    {
+      "subject": "CHE",
+      "catalog_number": "322",
+      "units": 0.5,
+      "title": "Numerical Methods for Process Analysis and Design"
+    },
+    {
+      "subject": "CHE",
+      "catalog_number": "330",
+      "units": 0.5,
+      "title": "Chemical Engineering Thermodynamics"
+    },
+    {
+      "subject": "CHE",
+      "catalog_number": "390",
+      "units": 0.25,
+      "title": "Chemical Engineering Lab 3"
+    },
+    {
+      "subject": "CHE",
+      "catalog_number": "398",
+      "units": 0.25,
+      "title": "Directed Research Project"
+    },
+    {
+      "subject": "CHE",
+      "catalog_number": "401",
+      "units": 0,
+      "title": "Seminar"
+    },
+    {
+      "subject": "CHE",
+      "catalog_number": "420",
+      "units": 0.5,
+      "title": "Introduction to Process Control"
+    },
+    {
+      "subject": "CHE",
+      "catalog_number": "480",
+      "units": 0.5,
+      "title": "Process Analysis and Design"
+    },
+    {
+      "subject": "CHE",
+      "catalog_number": "482",
+      "units": 0.5,
+      "title": "Chemical Engineering Design Workshop"
+    },
+    {
+      "subject": "CHE",
+      "catalog_number": "490",
+      "units": 0.25,
+      "title": "Chemical Engineering Lab 5"
+    },
+    {
+      "subject": "CHE",
+      "catalog_number": "498",
+      "units": 0.25,
+      "title": "Directed Research Project"
+    },
+    {
+      "subject": "CHE",
+      "catalog_number": "499",
+      "units": 0.5,
+      "title": "Elective Research Project"
+    },
+    {
+      "subject": "CHE",
+      "catalog_number": "610",
+      "units": 0.5,
+      "title": "Theory and Application of Transport Phenomena"
+    },
+    {
+      "subject": "CHE",
+      "catalog_number": "612",
+      "units": 0.5,
+      "title": "Interfacial Phenomena"
+    },
+    {
+      "subject": "CHE",
+      "catalog_number": "630",
+      "units": 0.5,
+      "title": "Chemical Reactor Analysis"
+    },
+    {
+      "subject": "CHE",
+      "catalog_number": "632",
+      "units": 0.5,
+      "title": "Introduction to Catalysis"
+    },
+    {
+      "subject": "CHE",
+      "catalog_number": "660",
+      "units": 0.5,
+      "title": "Principles of Biochemical Engineering"
+    },
+    {
+      "subject": "CHEM",
+      "catalog_number": "120",
+      "units": 0.5,
+      "title": "Physical and Chemical Properties of Matter"
+    },
+    {
+      "subject": "CHEM",
+      "catalog_number": "123",
+      "units": 0.5,
+      "title": "Chemical Reactions, Equilibria and Kinetics"
+    },
+    {
+      "subject": "CHEM",
+      "catalog_number": "123L",
+      "units": 0.25,
+      "title": "Chemical Reaction Laboratory 2"
+    },
+    {
+      "subject": "CHEM",
+      "catalog_number": "140",
+      "units": 0.5,
+      "title": "Introduction to Scientific Calculations"
+    },
+    {
+      "subject": "CHEM",
+      "catalog_number": "212",
+      "units": 0.5,
+      "title": "Structure and Bonding"
+    },
+    {
+      "subject": "CHEM",
+      "catalog_number": "221",
+      "units": 0.5,
+      "title": "Multi-Component Analysis"
+    },
+    {
+      "subject": "CHEM",
+      "catalog_number": "224L",
+      "units": 0.5,
+      "title": "Analytical Chemistry Laboratory 2"
+    },
+    {
+      "subject": "CHEM",
+      "catalog_number": "228",
+      "units": 0.5,
+      "title": "Chemical Analysis"
+    },
+    {
+      "subject": "CHEM",
+      "catalog_number": "233",
+      "units": 0.5,
+      "title": "Fundamentals of Biochemistry"
+    },
+    {
+      "subject": "CHEM",
+      "catalog_number": "237",
+      "units": 0.5,
+      "title": "Introductory Biochemistry"
+    },
+    {
+      "subject": "CHEM",
+      "catalog_number": "237L",
+      "units": 0.25,
+      "title": "Introductory Biochemistry Laboratory"
+    },
+    {
+      "subject": "CHEM",
+      "catalog_number": "254",
+      "units": 0.5,
+      "title": "Introductory Chemical Thermodynamics"
+    },
+    {
+      "subject": "CHEM",
+      "catalog_number": "265",
+      "units": 0.5,
+      "title": "Organic Chemistry 2"
+    },
+    {
+      "subject": "CHEM",
+      "catalog_number": "265L",
+      "units": 0.25,
+      "title": "Organic Chemistry Laboratory 1"
+    },
+    {
+      "subject": "CHEM",
+      "catalog_number": "267",
+      "units": 0.5,
+      "title": "Basic Organic Chemistry 2"
+    },
+    {
+      "subject": "CHEM",
+      "catalog_number": "392A",
+      "units": 0.75,
+      "title": "Research Project 1"
+    },
+    {
+      "subject": "CHEM",
+      "catalog_number": "392B",
+      "units": 0.75,
+      "title": "Research Project 2"
+    },
+    {
+      "subject": "CHEM",
+      "catalog_number": "494A",
+      "units": 0.5,
+      "title": "Research Project"
+    },
+    {
+      "subject": "CHEM",
+      "catalog_number": "494B",
+      "units": 0.5,
+      "title": "Research Project"
+    },
+    {
+      "subject": "CHEM",
+      "catalog_number": "497",
+      "units": 2.5,
+      "title": "Advanced Research Project"
+    },
+    {
+      "subject": "CHEM",
+      "catalog_number": "720",
+      "units": 0.5,
+      "title": "Selected Topics in Analytical Chemistry"
+    },
+    {
+      "subject": "CHEM",
+      "catalog_number": "750",
+      "units": 0.5,
+      "title": "Selected Topics in Physical Chemistry"
+    },
+    {
+      "subject": "CHEM",
+      "catalog_number": "794",
+      "units": 0.5,
+      "title": "Master's Seminar"
+    },
+    {
+      "subject": "CHINA",
+      "catalog_number": "101R",
+      "units": 0.5,
+      "title": "First-Year Chinese 1"
+    },
+    {
+      "subject": "CHINA",
+      "catalog_number": "102R",
+      "units": 0.5,
+      "title": "First-Year Chinese 2"
+    },
+    {
+      "subject": "CHINA",
+      "catalog_number": "120R",
+      "units": 0.5,
+      "title": "Advanced First-Year Chinese"
+    },
+    {
+      "subject": "CHINA",
+      "catalog_number": "201R",
+      "units": 0.5,
+      "title": "Second-Year Chinese 1"
+    },
+    {
+      "subject": "CHINA",
+      "catalog_number": "202R",
+      "units": 0.5,
+      "title": "Second-Year Chinese 2"
+    },
+    {
+      "subject": "CIVE",
+      "catalog_number": "105",
+      "units": 0.75,
+      "title": "Mechanics 2"
+    },
+    {
+      "subject": "CIVE",
+      "catalog_number": "121",
+      "units": 0.5,
+      "title": "Computational Methods"
+    },
+    {
+      "subject": "CIVE",
+      "catalog_number": "205",
+      "units": 0.5,
+      "title": "Mechanics of Solids 2"
+    },
+    {
+      "subject": "CIVE",
+      "catalog_number": "222",
+      "units": 0.5,
+      "title": "Differential Equations"
+    },
+    {
+      "subject": "CIVE",
+      "catalog_number": "240",
+      "units": 0.5,
+      "title": "Engineering and Sustainable Development"
+    },
+    {
+      "subject": "CIVE",
+      "catalog_number": "280",
+      "units": 0.75,
+      "title": "Fluid Mechanics and Thermal Sciences"
+    },
+    {
+      "subject": "CIVE",
+      "catalog_number": "299",
+      "units": 0,
+      "title": "Seminar"
+    },
+    {
+      "subject": "CIVE",
+      "catalog_number": "353",
+      "units": 0.5,
+      "title": "Geotechnical Engineering 1"
+    },
+    {
+      "subject": "CIVE",
+      "catalog_number": "400",
+      "units": 0.5,
+      "title": "Civil Engineering Project 1"
+    },
+    {
+      "subject": "CIVE",
+      "catalog_number": "403",
+      "units": 0.5,
+      "title": "Structural Analysis 2"
+    },
+    {
+      "subject": "CIVE",
+      "catalog_number": "413",
+      "units": 0.5,
+      "title": "Structural Steel Design"
+    },
+    {
+      "subject": "CIVE",
+      "catalog_number": "414",
+      "units": 0.5,
+      "title": "Structural Concrete Design 2"
+    },
+    {
+      "subject": "CIVE",
+      "catalog_number": "444",
+      "units": 0.5,
+      "title": "Urban Transport Planning"
+    },
+    {
+      "subject": "CIVE",
+      "catalog_number": "484",
+      "units": 0.5,
+      "title": "Physical Infrastructure Planning"
+    },
+    {
+      "subject": "CIVE",
+      "catalog_number": "486",
+      "units": 0.5,
+      "title": "Hydrology"
+    },
+    {
+      "subject": "CIVE",
+      "catalog_number": "491",
+      "units": 0.5,
+      "title": "Engineering Law and Ethics"
+    },
+    {
+      "subject": "CIVE",
+      "catalog_number": "497",
+      "units": 0.5,
+      "title": "Special Topics in Civil Engineering"
+    },
+    {
+      "subject": "CIVE",
+      "catalog_number": "498",
+      "units": 0,
+      "title": "Seminar"
+    },
+    {
+      "subject": "CIVE",
+      "catalog_number": "512",
+      "units": 0.5,
+      "title": "Rehabilitation of Structures"
+    },
+    {
+      "subject": "CIVE",
+      "catalog_number": "572",
+      "units": 0.5,
+      "title": "Wastewater Treatment"
+    },
+    {
+      "subject": "CIVE",
+      "catalog_number": "604",
+      "units": 0.5,
+      "title": "Advanced Structural Steel Design"
+    },
+    {
+      "subject": "CIVE",
+      "catalog_number": "640",
+      "units": 0.5,
+      "title": "Urban Transportation Planning Models: Principles & Applications"
+    },
+    {
+      "subject": "CIVE",
+      "catalog_number": "711",
+      "units": 0.5,
+      "title": "Computer-Aided Project Organization and Management"
+    },
+    {
+      "subject": "CIVE",
+      "catalog_number": "750",
+      "units": 0.5,
+      "title": "Topics in Geotechnical Engineering"
+    },
+    {
+      "subject": "CIVE",
+      "catalog_number": "771",
+      "units": 0.5,
+      "title": "Biological Wastewater Treatment: Theory and Practice"
+    },
+    {
+      "subject": "CLAS",
+      "catalog_number": "104",
+      "units": 0.5,
+      "title": "Classical Mythology"
+    },
+    {
+      "subject": "CLAS",
+      "catalog_number": "230",
+      "units": 0.5,
+      "title": "Classical Roots of English Vocabulary"
+    },
+    {
+      "subject": "CLAS",
+      "catalog_number": "261",
+      "units": 0.5,
+      "title": "Great Works: Ancient and Medieval"
+    },
+    {
+      "subject": "CLAS",
+      "catalog_number": "695",
+      "units": 0.5,
+      "title": "Classical Studies Abroad"
+    },
+    {
+      "subject": "CO",
+      "catalog_number": "250",
+      "units": 0.5,
+      "title": "Introduction to Optimization"
+    },
+    {
+      "subject": "CO",
+      "catalog_number": "327",
+      "units": 0.5,
+      "title": "Deterministic OR Models (Non-Specialist Level)"
+    },
+    {
+      "subject": "CO",
+      "catalog_number": "342",
+      "units": 0.5,
+      "title": "Introduction to Graph Theory"
+    },
+    {
+      "subject": "CO",
+      "catalog_number": "351",
+      "units": 0.5,
+      "title": "Network Flow Theory"
+    },
+    {
+      "subject": "CO",
+      "catalog_number": "380",
+      "units": 0.5,
+      "title": "Mathematical Discovery and Invention"
+    },
+    {
+      "subject": "CO",
+      "catalog_number": "454",
+      "units": 0.5,
+      "title": "Scheduling"
+    },
+    {
+      "subject": "CO",
+      "catalog_number": "471",
+      "units": 0.5,
+      "title": "Semidefinite Optimization"
+    },
+    {
+      "subject": "CO",
+      "catalog_number": "671",
+      "units": 0.5,
+      "title": "Semidefinite Optimization"
+    },
+    {
+      "subject": "CO",
+      "catalog_number": "749",
+      "units": 0.5,
+      "title": "Topics in Graph Theory"
+    },
+    {
+      "subject": "COMM",
+      "catalog_number": "321",
+      "units": 0.5,
+      "title": "Intermediate Accounting for Finance"
+    },
+    {
+      "subject": "COMM",
+      "catalog_number": "421",
+      "units": 0.5,
+      "title": "Financial Statement Analysis"
+    },
+    {
+      "subject": "COOP",
+      "catalog_number": "1",
+      "units": 0.5,
+      "title": "Co-operative Work Term"
+    },
+    {
+      "subject": "COOP",
+      "catalog_number": "10",
+      "units": 0.5,
+      "title": "Co-operative Work Term"
+    },
+    {
+      "subject": "COOP",
+      "catalog_number": "1G",
+      "units": 0.5,
+      "title": "Graduate Studies Co-operative Work Term 1"
+    },
+    {
+      "subject": "COOP",
+      "catalog_number": "2",
+      "units": 0.5,
+      "title": "Co-operative Work Term"
+    },
+    {
+      "subject": "COOP",
+      "catalog_number": "2G",
+      "units": 0.5,
+      "title": "Graduate Studies  Co-operative Work Term 2"
+    },
+    {
+      "subject": "COOP",
+      "catalog_number": "3",
+      "units": 0.5,
+      "title": "Co-operative Work Term"
+    },
+    {
+      "subject": "COOP",
+      "catalog_number": "3G",
+      "units": 0.5,
+      "title": "Graduate Studies Co-operative Work Term 3"
+    },
+    {
+      "subject": "COOP",
+      "catalog_number": "4",
+      "units": 0.5,
+      "title": "Co-operative Work Term"
+    },
+    {
+      "subject": "COOP",
+      "catalog_number": "5",
+      "units": 0.5,
+      "title": "Co-operative Work Term"
+    },
+    {
+      "subject": "COOP",
+      "catalog_number": "6",
+      "units": 0.5,
+      "title": "Co-operative Work Term"
+    },
+    {
+      "subject": "COOP",
+      "catalog_number": "601",
+      "units": 0,
+      "title": "Career Success Strategies"
+    },
+    {
+      "subject": "COOP",
+      "catalog_number": "7",
+      "units": 0.5,
+      "title": "Co-operative Work Term"
+    },
+    {
+      "subject": "COOP",
+      "catalog_number": "8",
+      "units": 0.5,
+      "title": "Co-operative Work Term"
+    },
+    {
+      "subject": "COOP",
+      "catalog_number": "9",
+      "units": 0.5,
+      "title": "Co-operative Work Term"
+    },
+    {
+      "subject": "CS",
+      "catalog_number": "100",
+      "units": 0.5,
+      "title": "Introduction to Computing through Applications"
+    },
+    {
+      "subject": "CS",
+      "catalog_number": "115",
+      "units": 0.5,
+      "title": "Introduction to Computer Science 1"
+    },
+    {
+      "subject": "CS",
+      "catalog_number": "116",
+      "units": 0.5,
+      "title": "Introduction to Computer Science 2"
+    },
+    {
+      "subject": "CS",
+      "catalog_number": "136",
+      "units": 0.5,
+      "title": "Elementary Algorithm Design and Data Abstraction"
+    },
+    {
+      "subject": "CS",
+      "catalog_number": "200",
+      "units": 0.5,
+      "title": "Concepts for Advanced Computer Usage"
+    },
+    {
+      "subject": "CS",
+      "catalog_number": "230",
+      "units": 0.5,
+      "title": "Introduction to Computers and Computer Systems"
+    },
+    {
+      "subject": "CS",
+      "catalog_number": "234",
+      "units": 0.5,
+      "title": "Data Types and Structures"
+    },
+    {
+      "subject": "CS",
+      "catalog_number": "240",
+      "units": 0.5,
+      "title": "Data Structures and Data Management"
+    },
+    {
+      "subject": "CS",
+      "catalog_number": "241",
+      "units": 0.5,
+      "title": "Foundations of Sequential Programs"
+    },
+    {
+      "subject": "CS",
+      "catalog_number": "245",
+      "units": 0.5,
+      "title": "Logic and Computation"
+    },
+    {
+      "subject": "CS",
+      "catalog_number": "246",
+      "units": 0.5,
+      "title": "Object-Oriented Software Development"
+    },
+    {
+      "subject": "CS",
+      "catalog_number": "247",
+      "units": 0.5,
+      "title": "Software Engineering Principles"
+    },
+    {
+      "subject": "CS",
+      "catalog_number": "251",
+      "units": 0.5,
+      "title": "Computer Organization and Design"
+    },
+    {
+      "subject": "CS",
+      "catalog_number": "330",
+      "units": 0.5,
+      "title": "Management Information Systems"
+    },
+    {
+      "subject": "CS",
+      "catalog_number": "338",
+      "units": 0.5,
+      "title": "Computer Applications in Business: Databases"
+    },
+    {
+      "subject": "CS",
+      "catalog_number": "341",
+      "units": 0.5,
+      "title": "Algorithms"
+    },
+    {
+      "subject": "CS",
+      "catalog_number": "348",
+      "units": 0.5,
+      "title": "Introduction to Database Management"
+    },
+    {
+      "subject": "CS",
+      "catalog_number": "349",
+      "units": 0.5,
+      "title": "User Interfaces"
+    },
+    {
+      "subject": "CS",
+      "catalog_number": "350",
+      "units": 0.5,
+      "title": "Operating Systems"
+    },
+    {
+      "subject": "CS",
+      "catalog_number": "360",
+      "units": 0.5,
+      "title": "Introduction to the Theory of Computing"
+    },
+    {
+      "subject": "CS",
+      "catalog_number": "370",
+      "units": 0.5,
+      "title": "Numerical Computation"
+    },
+    {
+      "subject": "CS",
+      "catalog_number": "371",
+      "units": 0.5,
+      "title": "Introduction to Computational Mathematics"
+    },
+    {
+      "subject": "CS",
+      "catalog_number": "432",
+      "units": 0.5,
+      "title": "Business Systems Analysis"
+    },
+    {
+      "subject": "CS",
+      "catalog_number": "446",
+      "units": 0.5,
+      "title": "Software Design and Architectures"
+    },
+    {
+      "subject": "CS",
+      "catalog_number": "449",
+      "units": 0.5,
+      "title": "Human-Computer Interaction"
+    },
+    {
+      "subject": "CS",
+      "catalog_number": "452",
+      "units": 0.5,
+      "title": "Real-time Programming"
+    },
+    {
+      "subject": "CS",
+      "catalog_number": "454",
+      "units": 0.5,
+      "title": "Distributed Systems"
+    },
+    {
+      "subject": "CS",
+      "catalog_number": "456",
+      "units": 0.5,
+      "title": "Computer Networks"
+    },
+    {
+      "subject": "CS",
+      "catalog_number": "458",
+      "units": 0.5,
+      "title": "Computer Security and Privacy"
+    },
+    {
+      "subject": "CS",
+      "catalog_number": "466",
+      "units": 0.5,
+      "title": "Algorithm Design and Analysis"
+    },
+    {
+      "subject": "CS",
+      "catalog_number": "475",
+      "units": 0.5,
+      "title": "Computational Linear Algebra"
+    },
+    {
+      "subject": "CS",
+      "catalog_number": "486",
+      "units": 0.5,
+      "title": "Introduction to Artificial Intelligence"
+    },
+    {
+      "subject": "CS",
+      "catalog_number": "488",
+      "units": 0.5,
+      "title": "Introduction to Computer Graphics"
+    },
+    {
+      "subject": "CS",
+      "catalog_number": "490",
+      "units": 0.5,
+      "title": "Information Systems Management"
+    },
+    {
+      "subject": "CS",
+      "catalog_number": "492",
+      "units": 0.5,
+      "title": "The Social Implications of Computing"
+    },
+    {
+      "subject": "CS",
+      "catalog_number": "634",
+      "units": 0.5,
+      "title": "Security and Privacy in Health Systems"
+    },
+    {
+      "subject": "CS",
+      "catalog_number": "646",
+      "units": 0.5,
+      "title": "Software Design and  Architectures"
+    },
+    {
+      "subject": "CS",
+      "catalog_number": "649",
+      "units": 0.5,
+      "title": "Human-Computer Interaction"
+    },
+    {
+      "subject": "CS",
+      "catalog_number": "652",
+      "units": 0.5,
+      "title": "Real-Time Programming"
+    },
+    {
+      "subject": "CS",
+      "catalog_number": "654",
+      "units": 0.5,
+      "title": "Distributed Systems"
+    },
+    {
+      "subject": "CS",
+      "catalog_number": "656",
+      "units": 0.5,
+      "title": "Computer Networks"
+    },
+    {
+      "subject": "CS",
+      "catalog_number": "658",
+      "units": 0.5,
+      "title": "Computer Security and Privacy"
+    },
+    {
+      "subject": "CS",
+      "catalog_number": "666",
+      "units": 0.5,
+      "title": "Algorithm Design and Analysis"
+    },
+    {
+      "subject": "CS",
+      "catalog_number": "675",
+      "units": 0.5,
+      "title": "Computational Linear Algebra"
+    },
+    {
+      "subject": "CS",
+      "catalog_number": "686",
+      "units": 0.5,
+      "title": "Introduction to Artificial Intelligence"
+    },
+    {
+      "subject": "CS",
+      "catalog_number": "688",
+      "units": 0.5,
+      "title": "Introduction to Computer Graphics"
+    },
+    {
+      "subject": "CS",
+      "catalog_number": "758",
+      "units": 0.5,
+      "title": "Cryptography/Network Security"
+    },
+    {
+      "subject": "CS",
+      "catalog_number": "785",
+      "units": 0.5,
+      "title": "Intelligent Computer Interfaces"
+    },
+    {
+      "subject": "CS",
+      "catalog_number": "846",
+      "units": 0.5,
+      "title": "Advanced Topics in Software Engineering"
+    },
+    {
+      "subject": "CS",
+      "catalog_number": "848",
+      "units": 0.5,
+      "title": "Advanced Topics in Data Bases"
+    },
+    {
+      "subject": "CS",
+      "catalog_number": "867",
+      "units": 0.5,
+      "title": "Advanced Topics in Quantum Computing"
+    },
+    {
+      "subject": "CS",
+      "catalog_number": "886",
+      "units": 0.5,
+      "title": "Advanced Topics in Artificial Intelligence"
+    },
+    {
+      "subject": "CS",
+      "catalog_number": "898",
+      "units": 0.5,
+      "title": "Advanced Special Topics in Computer Science"
+    },
+    {
+      "subject": "CT",
+      "catalog_number": "604",
+      "units": 0.5,
+      "title": "Catholic Moral Life and Thought"
+    },
+    {
+      "subject": "CT",
+      "catalog_number": "606A",
+      "units": 0.5,
+      "title": "Catholic Thought Research Paper or Project - Part I"
+    },
+    {
+      "subject": "CT",
+      "catalog_number": "606B",
+      "units": 0.5,
+      "title": "Catholic Thought Research Paper or Project - Part II"
+    },
+    {
+      "subject": "DAC",
+      "catalog_number": "202",
+      "units": 0.5,
+      "title": "Designing Digital Video"
+    },
+    {
+      "subject": "DAC",
+      "catalog_number": "203",
+      "units": 0.5,
+      "title": "Designing with Digital Sound"
+    },
+    {
+      "subject": "DAC",
+      "catalog_number": "308",
+      "units": 0.5,
+      "title": "Cinematic Art and Practice"
+    },
+    {
+      "subject": "DEI",
+      "catalog_number": "631",
+      "units": 1.5,
+      "title": "Projects"
+    },
+    {
+      "subject": "DRAMA",
+      "catalog_number": "491",
+      "units": 0.5,
+      "title": "Selected Seminars in Drama & Theatre Arts"
+    },
+    {
+      "subject": "DUTCH",
+      "catalog_number": "101",
+      "units": 0.5,
+      "title": "Elementary Dutch I"
+    },
+    {
+      "subject": "DUTCH",
+      "catalog_number": "102",
+      "units": 0.5,
+      "title": "Elementary Dutch II"
+    },
+    {
+      "subject": "EARTH",
+      "catalog_number": "121",
+      "units": 0.5,
+      "title": "Introductory Earth Sciences"
+    },
+    {
+      "subject": "EARTH",
+      "catalog_number": "153",
+      "units": 0.5,
+      "title": "Earth Engineering"
+    },
+    {
+      "subject": "EARTH",
+      "catalog_number": "221",
+      "units": 0.5,
+      "title": "Geochemistry 1"
+    },
+    {
+      "subject": "EARTH",
+      "catalog_number": "232",
+      "units": 0.5,
+      "title": "Petrography"
+    },
+    {
+      "subject": "EARTH",
+      "catalog_number": "436A",
+      "units": 0.5,
+      "title": "Honours Thesis"
+    },
+    {
+      "subject": "EARTH",
+      "catalog_number": "436B",
+      "units": 0.5,
+      "title": "Honours Thesis"
+    },
+    {
+      "subject": "EARTH",
+      "catalog_number": "458",
+      "units": 0.5,
+      "title": "Physical Hydrogeology"
+    },
+    {
+      "subject": "EARTH",
+      "catalog_number": "458L",
+      "units": 0.25,
+      "title": "Field Methods in Hydrogeology"
+    },
+    {
+      "subject": "EARTH",
+      "catalog_number": "499",
+      "units": 0.5,
+      "title": "Research Project"
+    },
+    {
+      "subject": "EARTH",
+      "catalog_number": "671",
+      "units": 0.5,
+      "title": "Field Methods in Hydrogeology"
+    },
+    {
+      "subject": "EARTH",
+      "catalog_number": "691",
+      "units": 0.5,
+      "title": "Special Studies for MSc Students"
+    },
+    {
+      "subject": "EARTH",
+      "catalog_number": "692",
+      "units": 0.5,
+      "title": "Special Studies for PhD Students"
+    },
+    {
+      "subject": "EARTH",
+      "catalog_number": "695",
+      "units": 0.5,
+      "title": "Earth MSc Seminar Proposal"
+    },
+    {
+      "subject": "EASIA",
+      "catalog_number": "201R",
+      "units": 0.5,
+      "title": "Introduction to East Asia"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "100A",
+      "units": 0.2,
+      "title": "Electrical and Computer Engineering Practice"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "100B",
+      "units": 0.2,
+      "title": "Electrical and Computer Engineering Practice"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "103",
+      "units": 0.5,
+      "title": "Discrete Mathematics"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "106",
+      "units": 0.5,
+      "title": "Physics of Electrical Engineering 2"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "124",
+      "units": 0.5,
+      "title": "Digital Circuits and Systems"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "155",
+      "units": 0.5,
+      "title": "Engineering Design with Embedded Systems"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "200A",
+      "units": 0.1,
+      "title": "Electrical and Computer Engineering Practice"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "200B",
+      "units": 0.1,
+      "title": "Electrical and Computer Engineering Practice"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "204B",
+      "units": 0.25,
+      "title": "Numerical Methods 2"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "206",
+      "units": 0.5,
+      "title": "Advanced Calculus 2 for Electrical Engineers"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "207",
+      "units": 0.5,
+      "title": "Signals and Systems"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "209",
+      "units": 0.5,
+      "title": "Electronic and Electrical Properties of Materials"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "224",
+      "units": 0.5,
+      "title": "Embedded Microprocessor Systems"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "242",
+      "units": 0.5,
+      "title": "Electronic Circuits 2"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "254",
+      "units": 0.5,
+      "title": "Operating Systems and Systems Programming"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "300A",
+      "units": 0.1,
+      "title": "Electrical and Computer Engineering Practice"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "300B",
+      "units": 0.1,
+      "title": "Electrical and Computer Engineering Practice"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "309",
+      "units": 0.5,
+      "title": "Introduction to Thermodynamics and Heat Transfer"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "316",
+      "units": 0.5,
+      "title": "Probability Theory and Statistics"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "327",
+      "units": 0.5,
+      "title": "Digital Hardware Systems"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "331",
+      "units": 0.5,
+      "title": "Electronic Devices"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "351",
+      "units": 0.5,
+      "title": "Compilers"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "358",
+      "units": 0.5,
+      "title": "Computer Networks"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "375",
+      "units": 0.5,
+      "title": "Electromagnetic Fields and Waves"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "380",
+      "units": 0.5,
+      "title": "Analog Control Systems"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "400A",
+      "units": 0.1,
+      "title": "Electrical and Computer Engineering Practice"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "400B",
+      "units": 0.1,
+      "title": "Electrical and Computer Engineering Practice"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "403",
+      "units": 0.5,
+      "title": "Thermal Physics"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "413",
+      "units": 0.5,
+      "title": "Digital Signal and Image Processing"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "414",
+      "units": 0.5,
+      "title": "Wireless Communications"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "429",
+      "units": 0.5,
+      "title": "Computer Architecture"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "432",
+      "units": 0.5,
+      "title": "Radio Frequency Integrated Devices and Circuits"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "445",
+      "units": 0.5,
+      "title": "Integrated Digital Electronics"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "452",
+      "units": 0.5,
+      "title": "Software Design and Architectures"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "454",
+      "units": 0.5,
+      "title": "Distributed Computing"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "455",
+      "units": 0.5,
+      "title": "Embedded Software"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "457A",
+      "units": 0.5,
+      "title": "Cooperative and Adaptive Algorithms"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "458",
+      "units": 0.5,
+      "title": "Computer Security"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "462",
+      "units": 0.5,
+      "title": "Electrical Distribution Systems"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "463",
+      "units": 0.5,
+      "title": "Design & Applications of Power Electronic Converters"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "473",
+      "units": 0.5,
+      "title": "Radio Frequency and Microwave Circuits"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "475",
+      "units": 0.5,
+      "title": "Radio-Wave Systems"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "481",
+      "units": 0.5,
+      "title": "Digital Control Systems"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "486",
+      "units": 0.5,
+      "title": "Robot Dynamics and Control"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "493",
+      "units": 0.5,
+      "title": "Special Topics in Electrical and Computer Engineering"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "498A",
+      "units": 0.5,
+      "title": "Engineering Design Project"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "498B",
+      "units": 0.5,
+      "title": "Engineering Design Project"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "499",
+      "units": 0.5,
+      "title": "Engineering Project"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "603",
+      "units": 0.5,
+      "title": "Statistical Signal Processing"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "631",
+      "units": 0.5,
+      "title": "Microelectronic Processing Technology"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "632",
+      "units": 0.5,
+      "title": "Photovoltaic Energy Conversion"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "652",
+      "units": 0.5,
+      "title": "Parallel Programming"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "654",
+      "units": 0.5,
+      "title": "Software Reliability Engineering"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "657",
+      "units": 0.5,
+      "title": "Tools of Intelligent Systems Design"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "659",
+      "units": 0.5,
+      "title": "Inllgnt Snsrs&Wrlss Snsr Ntwrk"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "6607PD",
+      "units": 0.5,
+      "title": "Operation and Control of Resturctured Power Systems"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "6608PD",
+      "units": 0.5,
+      "title": "Dielectrics and Electrical Insulation"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "6617PD",
+      "units": 0.5,
+      "title": "Asset Management and Risk Assessment of Power Systems"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "663",
+      "units": 0.5,
+      "title": "Energy Processing"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "665",
+      "units": 0.5,
+      "title": "High Voltage Engineering Applications"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "669",
+      "units": 0.5,
+      "title": "Dielectric Materials"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "700",
+      "units": 0.5,
+      "title": "Special Topics in Electrical and Computer Engineering"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "710",
+      "units": 0.5,
+      "title": "Special Topics in Communications and Information Theory"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "730",
+      "units": 0.5,
+      "title": "Special Topics in Solid State Devices"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "750",
+      "units": 0.5,
+      "title": "Special Topics in Computer Software"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "754",
+      "units": 0.5,
+      "title": "Software Bug Detection and Tolerance"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "755",
+      "units": 0.5,
+      "title": "Safety-critical Real-time Embedded Software"
+    },
+    {
+      "subject": "ECE",
+      "catalog_number": "770",
+      "units": 0.5,
+      "title": "Special Topics in Antenna and Microwave Theory"
+    },
+    {
+      "subject": "ECON",
+      "catalog_number": "101",
+      "units": 0.5,
+      "title": "Introduction to Microeconomics"
+    },
+    {
+      "subject": "ECON",
+      "catalog_number": "102",
+      "units": 0.5,
+      "title": "Introduction to Macroeconomics"
+    },
+    {
+      "subject": "ECON",
+      "catalog_number": "120W",
+      "units": 0.5,
+      "title": "Intro to Microeconomics (WLU)"
+    },
+    {
+      "subject": "ECON",
+      "catalog_number": "140W",
+      "units": 0.5,
+      "title": "Intro.To Macroeconomics (WLU)"
+    },
+    {
+      "subject": "ECON",
+      "catalog_number": "201",
+      "units": 0.5,
+      "title": "Microeconomic Theory 1"
+    },
+    {
+      "subject": "ECON",
+      "catalog_number": "202",
+      "units": 0.5,
+      "title": "Macroeconomic Theory 1"
+    },
+    {
+      "subject": "ECON",
+      "catalog_number": "211",
+      "units": 0.5,
+      "title": "Introduction to Mathematical Economics"
+    },
+    {
+      "subject": "ECON",
+      "catalog_number": "220",
+      "units": 0.5,
+      "title": "The Principles of Entrepreneurship"
+    },
+    {
+      "subject": "ECON",
+      "catalog_number": "221",
+      "units": 0.5,
+      "title": "Statistics for Economists"
+    },
+    {
+      "subject": "ECON",
+      "catalog_number": "223W",
+      "units": 0.5,
+      "title": "Econ Cdn Banking&Fin Sys (WLU)"
+    },
+    {
+      "subject": "ECON",
+      "catalog_number": "231",
+      "units": 0.5,
+      "title": "Introduction to International Economics"
+    },
+    {
+      "subject": "ECON",
+      "catalog_number": "238W",
+      "units": 0.5,
+      "title": "Environmental Economics (WLU)"
+    },
+    {
+      "subject": "ECON",
+      "catalog_number": "249W",
+      "units": 0.5,
+      "title": "International Finance (WLU)"
+    },
+    {
+      "subject": "ECON",
+      "catalog_number": "250W",
+      "units": 0.5,
+      "title": "Int Macroec Anlys for Mgt(WLU)"
+    },
+    {
+      "subject": "ECON",
+      "catalog_number": "260W",
+      "units": 0.5,
+      "title": "Int Microec Anal for Mgt (WLU)"
+    },
+    {
+      "subject": "ECON",
+      "catalog_number": "301",
+      "units": 0.5,
+      "title": "Microeconomic Theory 2"
+    },
+    {
+      "subject": "ECON",
+      "catalog_number": "302",
+      "units": 0.5,
+      "title": "Macroeconomic Theory 2"
+    },
+    {
+      "subject": "ECON",
+      "catalog_number": "311",
+      "units": 0.5,
+      "title": "Mathematical Economics"
+    },
+    {
+      "subject": "ECON",
+      "catalog_number": "321",
+      "units": 0.5,
+      "title": "Introduction to Econometrics"
+    },
+    {
+      "subject": "ECON",
+      "catalog_number": "344",
+      "units": 0.5,
+      "title": "Marketing: Principles of Marketing and Consumer Economics"
+    },
+    {
+      "subject": "ECON",
+      "catalog_number": "357",
+      "units": 0.5,
+      "title": "Environmental Economics"
+    },
+    {
+      "subject": "ECON",
+      "catalog_number": "361",
+      "units": 0.5,
+      "title": "Cost-Benefit Analysis and Project Evaluation"
+    },
+    {
+      "subject": "ECON",
+      "catalog_number": "371",
+      "units": 0.5,
+      "title": "Business Finance 1"
+    },
+    {
+      "subject": "ECON",
+      "catalog_number": "372",
+      "units": 0.5,
+      "title": "Business Finance 2"
+    },
+    {
+      "subject": "ECON",
+      "catalog_number": "401",
+      "units": 0.5,
+      "title": "Microeconomic Theory 3"
+    },
+    {
+      "subject": "ECON",
+      "catalog_number": "402",
+      "units": 0.5,
+      "title": "Macroeconomic Theory 3"
+    },
+    {
+      "subject": "ECON",
+      "catalog_number": "442",
+      "units": 0.5,
+      "title": "Economics of Taxation"
+    },
+    {
+      "subject": "ECON",
+      "catalog_number": "472",
+      "units": 0.5,
+      "title": "Senior Honours Essay"
+    },
+    {
+      "subject": "ECON",
+      "catalog_number": "483",
+      "units": 0.5,
+      "title": "Special Topics"
+    },
+    {
+      "subject": "EFAS",
+      "catalog_number": "32",
+      "units": 0,
+      "title": "Academic Skills"
+    },
+    {
+      "subject": "EFAS",
+      "catalog_number": "34",
+      "units": 0,
+      "title": "Writing Skills"
+    },
+    {
+      "subject": "EFAS",
+      "catalog_number": "36",
+      "units": 0,
+      "title": "Oral Skills"
+    },
+    {
+      "subject": "EFAS",
+      "catalog_number": "42",
+      "units": 0,
+      "title": "Academic Skills"
+    },
+    {
+      "subject": "EFAS",
+      "catalog_number": "44",
+      "units": 0,
+      "title": "Writing Skills"
+    },
+    {
+      "subject": "EFAS",
+      "catalog_number": "46",
+      "units": 0,
+      "title": "Oral Skills"
+    },
+    {
+      "subject": "ELPE",
+      "catalog_number": "100",
+      "units": 0,
+      "title": "English Language Prof Test"
+    },
+    {
+      "subject": "EMLS",
+      "catalog_number": "101R",
+      "units": 0.5,
+      "title": "Oral Communications for Academic Purposes"
+    },
+    {
+      "subject": "EMLS",
+      "catalog_number": "102R",
+      "units": 0.5,
+      "title": "Error Correction in Academic Writing"
+    },
+    {
+      "subject": "EMLS",
+      "catalog_number": "129R",
+      "units": 0.5,
+      "title": "Written Academic English"
+    },
+    {
+      "subject": "EMLS",
+      "catalog_number": "601R",
+      "units": 0.5,
+      "title": "Speaking English for Professional Purposes"
+    },
+    {
+      "subject": "EMLS",
+      "catalog_number": "602R",
+      "units": 0.5,
+      "title": "Scholarly Writing in English"
+    },
+    {
+      "subject": "ENBUS",
+      "catalog_number": "211",
+      "units": 0.5,
+      "title": "Principles of Marketing for Sustainability Professionals"
+    },
+    {
+      "subject": "ENBUS",
+      "catalog_number": "308",
+      "units": 0.5,
+      "title": "Sustainability Management Standards and Auditing"
+    },
+    {
+      "subject": "ENBUS",
+      "catalog_number": "601",
+      "units": 0.5,
+      "title": "Business and the Case for Sustainability"
+    },
+    {
+      "subject": "ENBUS",
+      "catalog_number": "612",
+      "units": 0.5,
+      "title": "Social Entrepreneurship"
+    },
+    {
+      "subject": "ENBUS",
+      "catalog_number": "630",
+      "units": 0.5,
+      "title": "Enterprise Marketing and Social Accountability"
+    },
+    {
+      "subject": "ENBUS",
+      "catalog_number": "632",
+      "units": 0.5,
+      "title": "Sustainability Reporting"
+    },
+    {
+      "subject": "ENBUS",
+      "catalog_number": "690B",
+      "units": 0.5,
+      "title": "Enterprise Sustainability Project"
+    },
+    {
+      "subject": "ENGL",
+      "catalog_number": "101B",
+      "units": 0.5,
+      "title": "Introduction to Rhetorical Studies"
+    },
+    {
+      "subject": "ENGL",
+      "catalog_number": "108A",
+      "units": 0.5,
+      "title": "The Superhero"
+    },
+    {
+      "subject": "ENGL",
+      "catalog_number": "108D",
+      "units": 0.5,
+      "title": "Digital Lives"
+    },
+    {
+      "subject": "ENGL",
+      "catalog_number": "108P",
+      "units": 0.5,
+      "title": "Popular Potter"
+    },
+    {
+      "subject": "ENGL",
+      "catalog_number": "109",
+      "units": 0.5,
+      "title": "Introduction to Academic Writing"
+    },
+    {
+      "subject": "ENGL",
+      "catalog_number": "119",
+      "units": 0.5,
+      "title": "Communications in Mathematics & Computer Science"
+    },
+    {
+      "subject": "ENGL",
+      "catalog_number": "140R",
+      "units": 0.5,
+      "title": "The Use of English 1"
+    },
+    {
+      "subject": "ENGL",
+      "catalog_number": "200B",
+      "units": 0.5,
+      "title": "Survey of British Literature 2"
+    },
+    {
+      "subject": "ENGL",
+      "catalog_number": "204",
+      "units": 0.5,
+      "title": "Designing Digital Video"
+    },
+    {
+      "subject": "ENGL",
+      "catalog_number": "210C",
+      "units": 0.5,
+      "title": "Genres of Creative Writing"
+    },
+    {
+      "subject": "ENGL",
+      "catalog_number": "210F",
+      "units": 0.5,
+      "title": "Genres of Business Communication"
+    },
+    {
+      "subject": "ENGL",
+      "catalog_number": "210J",
+      "units": 0.5,
+      "title": "Technical Editing"
+    },
+    {
+      "subject": "ENGL",
+      "catalog_number": "251B",
+      "units": 0.5,
+      "title": "Criticism 2"
+    },
+    {
+      "subject": "ENGL",
+      "catalog_number": "292",
+      "units": 0.5,
+      "title": "Contemporary Issues in Language, Writing, and Rhetoric"
+    },
+    {
+      "subject": "ENGL",
+      "catalog_number": "294",
+      "units": 0.5,
+      "title": "Game Studies"
+    },
+    {
+      "subject": "ENGL",
+      "catalog_number": "304",
+      "units": 0.5,
+      "title": "Designing with Digital Sound"
+    },
+    {
+      "subject": "ENGL",
+      "catalog_number": "306A",
+      "units": 0.5,
+      "title": "Introduction to Linguistics"
+    },
+    {
+      "subject": "ENGL",
+      "catalog_number": "309A",
+      "units": 0.5,
+      "title": "Classical Rhetoric"
+    },
+    {
+      "subject": "ENGL",
+      "catalog_number": "309B",
+      "units": 0.5,
+      "title": "Medieval to Pre-Modern Rhetoric"
+    },
+    {
+      "subject": "ENGL",
+      "catalog_number": "309C",
+      "units": 0.5,
+      "title": "Contemporary Rhetoric"
+    },
+    {
+      "subject": "ENGL",
+      "catalog_number": "346",
+      "units": 0.5,
+      "title": "American Fiction"
+    },
+    {
+      "subject": "ENGL",
+      "catalog_number": "364",
+      "units": 0.5,
+      "title": "Shakespeare in Performance at The Stratford Festival"
+    },
+    {
+      "subject": "ENGL",
+      "catalog_number": "365",
+      "units": 0.5,
+      "title": "Selected Studies"
+    },
+    {
+      "subject": "ENGL",
+      "catalog_number": "366",
+      "units": 0.5,
+      "title": "Selected Studies"
+    },
+    {
+      "subject": "ENGL",
+      "catalog_number": "408A",
+      "units": 0.5,
+      "title": "Writing for the Media"
+    },
+    {
+      "subject": "ENGL",
+      "catalog_number": "410D",
+      "units": 0.5,
+      "title": "Eighteenth-Century Fiction I"
+    },
+    {
+      "subject": "ENGL",
+      "catalog_number": "430A",
+      "units": 0.5,
+      "title": "Literature of the Romantic Period 1"
+    },
+    {
+      "subject": "ENGL",
+      "catalog_number": "460B",
+      "units": 0.5,
+      "title": "Literature of the Modernist Period in the United Kingdom and Ireland"
+    },
+    {
+      "subject": "ENGL",
+      "catalog_number": "481",
+      "units": 0.5,
+      "title": "Topics in the History and Theory of Language"
+    },
+    {
+      "subject": "ENGL",
+      "catalog_number": "495A",
+      "units": 0.5,
+      "title": "Supervision of Honours Essay"
+    },
+    {
+      "subject": "ENGL",
+      "catalog_number": "495B",
+      "units": 0.5,
+      "title": "Supervision of Honours Essay"
+    },
+    {
+      "subject": "ENGL",
+      "catalog_number": "720",
+      "units": 0.5,
+      "title": "Studies in the Restoration and Eighteenth Century Literature"
+    },
+    {
+      "subject": "ENGL",
+      "catalog_number": "725",
+      "units": 0.5,
+      "title": "Studies in Romanticism"
+    },
+    {
+      "subject": "ENGL",
+      "catalog_number": "735",
+      "units": 0.5,
+      "title": "Studies in Modern British Literature"
+    },
+    {
+      "subject": "ENGL",
+      "catalog_number": "760",
+      "units": 0.5,
+      "title": "Studies in 20th-Century American Literature"
+    },
+    {
+      "subject": "ENGL",
+      "catalog_number": "775",
+      "units": 0.5,
+      "title": "Studies in Commonwealth Literature"
+    },
+    {
+      "subject": "ENGL",
+      "catalog_number": "788",
+      "units": 0.5,
+      "title": "Topics in Rhetorical Theory and Criticism"
+    },
+    {
+      "subject": "ENVE",
+      "catalog_number": "153",
+      "units": 0.5,
+      "title": "Earth Engineering"
+    },
+    {
+      "subject": "ENVE",
+      "catalog_number": "320",
+      "units": 0.5,
+      "title": "Environmental Resource Management"
+    },
+    {
+      "subject": "ENVE",
+      "catalog_number": "321",
+      "units": 0.5,
+      "title": "Advanced Mathematics"
+    },
+    {
+      "subject": "ENVE",
+      "catalog_number": "330",
+      "units": 0.5,
+      "title": "Lab Analysis and Field Sampling Techniques"
+    },
+    {
+      "subject": "ENVE",
+      "catalog_number": "398",
+      "units": 0,
+      "title": "Seminar"
+    },
+    {
+      "subject": "ENVS",
+      "catalog_number": "200",
+      "units": 0.5,
+      "title": "Field Ecology"
+    },
+    {
+      "subject": "ENVS",
+      "catalog_number": "295W",
+      "units": 0.5,
+      "title": "Ecotourism and the Environment (WLU)`"
+    },
+    {
+      "subject": "ENVS",
+      "catalog_number": "395",
+      "units": 2.5,
+      "title": "Study Abroad"
+    },
+    {
+      "subject": "ENVS",
+      "catalog_number": "474",
+      "units": 0.5,
+      "title": "Special Topics in Environmental Studies"
+    },
+    {
+      "subject": "ERS",
+      "catalog_number": "275",
+      "units": 0.5,
+      "title": "Special Readings/Seminar on Select Topics"
+    },
+    {
+      "subject": "ERS",
+      "catalog_number": "283",
+      "units": 1,
+      "title": "Ontario Natural History: Species and Patterns"
+    },
+    {
+      "subject": "ERS",
+      "catalog_number": "340",
+      "units": 1.5,
+      "title": "Ecosystem Assessment"
+    },
+    {
+      "subject": "ERS",
+      "catalog_number": "341",
+      "units": 1.5,
+      "title": "Professional Conservation and Restoration Practice I"
+    },
+    {
+      "subject": "ERS",
+      "catalog_number": "375",
+      "units": 0.5,
+      "title": "Special Readings/Seminar on Select Topics"
+    },
+    {
+      "subject": "ERS",
+      "catalog_number": "382",
+      "units": 0.5,
+      "title": "Ecological Monitoring"
+    },
+    {
+      "subject": "ERS",
+      "catalog_number": "411A",
+      "units": 0.5,
+      "title": "Environmental Research Project II"
+    },
+    {
+      "subject": "ERS",
+      "catalog_number": "411B",
+      "units": 0.5,
+      "title": "Environmental Research Project III"
+    },
+    {
+      "subject": "ERS",
+      "catalog_number": "412A",
+      "units": 1,
+      "title": "Environmental Research Project II"
+    },
+    {
+      "subject": "ERS",
+      "catalog_number": "412B",
+      "units": 1,
+      "title": "Environmental Research Project III"
+    },
+    {
+      "subject": "ERS",
+      "catalog_number": "473",
+      "units": 0.5,
+      "title": "Special Topics in Environmental and Resource Studies"
+    },
+    {
+      "subject": "ERS",
+      "catalog_number": "475",
+      "units": 0.5,
+      "title": "Special Readings/Seminar on Select Topics"
+    },
+    {
+      "subject": "ERS",
+      "catalog_number": "650",
+      "units": 0.5,
+      "title": "Topics in Governance and Sustainable Communities"
+    },
+    {
+      "subject": "ERS",
+      "catalog_number": "674",
+      "units": 0.5,
+      "title": "Special Topics in Environment and Resource Studies"
+    },
+    {
+      "subject": "ERS",
+      "catalog_number": "675",
+      "units": 0.5,
+      "title": "Special Readings and Seminars on Selected Topics in Environment and Resource Studies"
+    },
+    {
+      "subject": "FINE",
+      "catalog_number": "100",
+      "units": 0.5,
+      "title": "Studio Fundamentals"
+    },
+    {
+      "subject": "FINE",
+      "catalog_number": "130",
+      "units": 0.5,
+      "title": "Introduction to Digital Imaging"
+    },
+    {
+      "subject": "FINE",
+      "catalog_number": "202",
+      "units": 0.5,
+      "title": "Painting"
+    },
+    {
+      "subject": "FINE",
+      "catalog_number": "224",
+      "units": 0.5,
+      "title": "Expressive Drawing"
+    },
+    {
+      "subject": "FINE",
+      "catalog_number": "243",
+      "units": 0.25,
+      "title": "Topics in Fine Arts Experiential Learning"
+    },
+    {
+      "subject": "FINE",
+      "catalog_number": "304",
+      "units": 0.5,
+      "title": "Topics in Studio Practice"
+    },
+    {
+      "subject": "FINE",
+      "catalog_number": "343",
+      "units": 0.25,
+      "title": "Topics in Fine Arts Experiential Learning"
+    },
+    {
+      "subject": "FINE",
+      "catalog_number": "404",
+      "units": 0.5,
+      "title": "Topics in Studio Practice"
+    },
+    {
+      "subject": "FINE",
+      "catalog_number": "497",
+      "units": 0.5,
+      "title": "Honours Art History Thesis 2"
+    },
+    {
+      "subject": "FINE",
+      "catalog_number": "692",
+      "units": 1,
+      "title": "Graduate Summer Studio"
+    },
+    {
+      "subject": "FR",
+      "catalog_number": "151",
+      "units": 0.5,
+      "title": "Basic French 1"
+    },
+    {
+      "subject": "FR",
+      "catalog_number": "152",
+      "units": 0.5,
+      "title": "Basic French 2"
+    },
+    {
+      "subject": "FR",
+      "catalog_number": "192A",
+      "units": 0.5,
+      "title": "French Language 1: Module 1"
+    },
+    {
+      "subject": "FR",
+      "catalog_number": "192B",
+      "units": 0.5,
+      "title": "French Language 1: Module 2"
+    },
+    {
+      "subject": "FR",
+      "catalog_number": "197",
+      "units": 0.5,
+      "title": "French Culture & Literature: Origins to 1715"
+    },
+    {
+      "subject": "FR",
+      "catalog_number": "250A",
+      "units": 0.5,
+      "title": "Intermediate Spoken French"
+    },
+    {
+      "subject": "FR",
+      "catalog_number": "251",
+      "units": 0.5,
+      "title": "French Language 2: Module 1"
+    },
+    {
+      "subject": "FR",
+      "catalog_number": "252",
+      "units": 0.5,
+      "title": "French Language 2: Module 2"
+    },
+    {
+      "subject": "FR",
+      "catalog_number": "276",
+      "units": 0.5,
+      "title": "Major Works 2 - French Canada"
+    },
+    {
+      "subject": "FR",
+      "catalog_number": "332",
+      "units": 0.5,
+      "title": "17th-Century French Literature"
+    },
+    {
+      "subject": "FR",
+      "catalog_number": "351",
+      "units": 0.5,
+      "title": "French Language 3"
+    },
+    {
+      "subject": "FR",
+      "catalog_number": "484",
+      "units": 0.5,
+      "title": "Children's Literature in French"
+    },
+    {
+      "subject": "FR",
+      "catalog_number": "685",
+      "units": 0.5,
+      "title": "Studies in Selected Topics"
+    },
+    {
+      "subject": "GENE",
+      "catalog_number": "101",
+      "units": 0.5,
+      "title": "Strategies and Skills for Academic Success"
+    },
+    {
+      "subject": "GENE",
+      "catalog_number": "119",
+      "units": 0,
+      "title": "Problems Seminar"
+    },
+    {
+      "subject": "GENE",
+      "catalog_number": "121",
+      "units": 0.5,
+      "title": "Digital Computation"
+    },
+    {
+      "subject": "GENE",
+      "catalog_number": "123",
+      "units": 0.5,
+      "title": "Electrical Engineering"
+    },
+    {
+      "subject": "GENE",
+      "catalog_number": "21A",
+      "units": 0.5,
+      "title": "Topics for Technical Courses Taken on Exchange by Architecture Students"
+    },
+    {
+      "subject": "GENE",
+      "catalog_number": "21C",
+      "units": 0.5,
+      "title": "Topics for Technical Courses Taken on Exchange by Chemical Engineering Students"
+    },
+    {
+      "subject": "GENE",
+      "catalog_number": "21M",
+      "units": 0.5,
+      "title": "Topics for Technical Courses Taken on Exchange by Mechanical Engineering Students"
+    },
+    {
+      "subject": "GENE",
+      "catalog_number": "301",
+      "units": 0.5,
+      "title": "Special Directed Studies"
+    },
+    {
+      "subject": "GENE",
+      "catalog_number": "303",
+      "units": 0.13,
+      "title": "International Studies In Engineering"
+    },
+    {
+      "subject": "GENE",
+      "catalog_number": "315",
+      "units": 0.5,
+      "title": "Special Directed Non-Technical Studies"
+    },
+    {
+      "subject": "GENE",
+      "catalog_number": "397",
+      "units": 2.5,
+      "title": "Engineering Study Abroad"
+    },
+    {
+      "subject": "GENE",
+      "catalog_number": "401",
+      "units": 0.5,
+      "title": "Special Directed Studies"
+    },
+    {
+      "subject": "GENE",
+      "catalog_number": "403",
+      "units": 0.5,
+      "title": "Interdisciplinary Design Project 1"
+    },
+    {
+      "subject": "GENE",
+      "catalog_number": "415",
+      "units": 0.5,
+      "title": "Special Directed Non-Technical Studies"
+    },
+    {
+      "subject": "GENE",
+      "catalog_number": "503",
+      "units": 2.5,
+      "title": "Directed Studies for Visiting Exchange Students"
+    },
+    {
+      "subject": "GEOE",
+      "catalog_number": "153",
+      "units": 0.5,
+      "title": "Earth Engineering"
+    },
+    {
+      "subject": "GEOE",
+      "catalog_number": "398",
+      "units": 0,
+      "title": "Seminar"
+    },
+    {
+      "subject": "GEOG",
+      "catalog_number": "101W",
+      "units": 0.5,
+      "title": "Intro Physical Geography(WLU)"
+    },
+    {
+      "subject": "GEOG",
+      "catalog_number": "181",
+      "units": 0.5,
+      "title": "Principles of GIScience"
+    },
+    {
+      "subject": "GEOG",
+      "catalog_number": "203",
+      "units": 0.5,
+      "title": "Environment and Development in a Global Perspective"
+    },
+    {
+      "subject": "GEOG",
+      "catalog_number": "209",
+      "units": 0.5,
+      "title": "Hydroclimatology"
+    },
+    {
+      "subject": "GEOG",
+      "catalog_number": "271W",
+      "units": 0.5,
+      "title": "Temp Perspect on City (WLU)"
+    },
+    {
+      "subject": "GEOG",
+      "catalog_number": "290W",
+      "units": 0.5,
+      "title": "Global Resource & Enviro (WLU)"
+    },
+    {
+      "subject": "GEOG",
+      "catalog_number": "293",
+      "units": 0.5,
+      "title": "Professional and Scholarly Practice in Geography"
+    },
+    {
+      "subject": "GEOG",
+      "catalog_number": "300",
+      "units": 0.5,
+      "title": "Geomorphology and the Southern Ontario Environment"
+    },
+    {
+      "subject": "GEOG",
+      "catalog_number": "306",
+      "units": 0.5,
+      "title": "Human Dimensions of Natural Hazards"
+    },
+    {
+      "subject": "GEOG",
+      "catalog_number": "349",
+      "units": 0.5,
+      "title": "Urban Form and Internal Spatial Structure"
+    },
+    {
+      "subject": "GEOG",
+      "catalog_number": "354W",
+      "units": 0.5,
+      "title": "The Canadian North (WLU)"
+    },
+    {
+      "subject": "GEOG",
+      "catalog_number": "381",
+      "units": 0.5,
+      "title": "Advanced Geographic Information Systems"
+    },
+    {
+      "subject": "GEOG",
+      "catalog_number": "391",
+      "units": 0.5,
+      "title": "Field Research"
+    },
+    {
+      "subject": "GEOG",
+      "catalog_number": "391W",
+      "units": 0.5,
+      "title": "Wildlife& RuralLandResMgt(WLU)"
+    },
+    {
+      "subject": "GEOG",
+      "catalog_number": "426",
+      "units": 0.5,
+      "title": "Geographies of Development"
+    },
+    {
+      "subject": "GEOG",
+      "catalog_number": "430A",
+      "units": 0.5,
+      "title": "Field Research in Regional Geography"
+    },
+    {
+      "subject": "GEOG",
+      "catalog_number": "430C",
+      "units": 1.5,
+      "title": "Field Research in Regional Geography"
+    },
+    {
+      "subject": "GEOG",
+      "catalog_number": "459",
+      "units": 1,
+      "title": "Energy and Sustainability"
+    },
+    {
+      "subject": "GEOG",
+      "catalog_number": "475",
+      "units": 0.5,
+      "title": "Independent Study of Selected Topics"
+    },
+    {
+      "subject": "GEOG",
+      "catalog_number": "481",
+      "units": 1,
+      "title": "Geographic Information Systems Project"
+    },
+    {
+      "subject": "GEOG",
+      "catalog_number": "490A",
+      "units": 0.5,
+      "title": "Honours Thesis Preparation"
+    },
+    {
+      "subject": "GEOG",
+      "catalog_number": "490B",
+      "units": 1,
+      "title": "Honours Thesis Completion"
+    },
+    {
+      "subject": "GEOG",
+      "catalog_number": "675",
+      "units": 0.5,
+      "title": "Selected Topics in Geography"
+    },
+    {
+      "subject": "GEOG",
+      "catalog_number": "692",
+      "units": 0.5,
+      "title": "International Study"
+    },
+    {
+      "subject": "GER",
+      "catalog_number": "101",
+      "units": 0.5,
+      "title": "Elementary German I"
+    },
+    {
+      "subject": "GER",
+      "catalog_number": "102",
+      "units": 0.5,
+      "title": "Elementary German II"
+    },
+    {
+      "subject": "GER",
+      "catalog_number": "201",
+      "units": 0.5,
+      "title": "Intermediate German I"
+    },
+    {
+      "subject": "GER",
+      "catalog_number": "202",
+      "units": 0.5,
+      "title": "Intermediate German II"
+    },
+    {
+      "subject": "GER",
+      "catalog_number": "271",
+      "units": 0.5,
+      "title": "German Thought and Culture: Objects"
+    },
+    {
+      "subject": "GER",
+      "catalog_number": "397",
+      "units": 2.5,
+      "title": "Waterloo in Germany Program"
+    },
+    {
+      "subject": "GER",
+      "catalog_number": "407",
+      "units": 0.5,
+      "title": "Applied Apprenticeship"
+    },
+    {
+      "subject": "GER",
+      "catalog_number": "490",
+      "units": 0.5,
+      "title": "Senior Honours Project"
+    },
+    {
+      "subject": "GER",
+      "catalog_number": "495",
+      "units": 0.5,
+      "title": "Reading Course in Approved Topics"
+    },
+    {
+      "subject": "GER",
+      "catalog_number": "751",
+      "units": 0.5,
+      "title": "Topics in Linguistic Methodology"
+    },
+    {
+      "subject": "GER",
+      "catalog_number": "752",
+      "units": 0.5,
+      "title": "Topics in Theories and Models of Applied Linguistics"
+    },
+    {
+      "subject": "GER",
+      "catalog_number": "754",
+      "units": 0.5,
+      "title": "Topics in Theories and Conceptions of Modernity"
+    },
+    {
+      "subject": "GER",
+      "catalog_number": "761",
+      "units": 0.5,
+      "title": "Topics in Interaction and Text"
+    },
+    {
+      "subject": "GER",
+      "catalog_number": "762",
+      "units": 0.5,
+      "title": "Topics in Research Directions in Language Acquisition and Multilinualism"
+    },
+    {
+      "subject": "GER",
+      "catalog_number": "763",
+      "units": 0.5,
+      "title": "Topics in Sociology of Language and Cultural Differentiation"
+    },
+    {
+      "subject": "GER",
+      "catalog_number": "764",
+      "units": 0.5,
+      "title": "Topics in History of Language"
+    },
+    {
+      "subject": "GER",
+      "catalog_number": "771",
+      "units": 0.5,
+      "title": "Topics in Individual and Society in Historical Transformation"
+    },
+    {
+      "subject": "GER",
+      "catalog_number": "772",
+      "units": 0.5,
+      "title": "Topics in Aesthetic Transformations and Theoretical Concepts"
+    },
+    {
+      "subject": "GER",
+      "catalog_number": "775",
+      "units": 0.5,
+      "title": "Topics in Modern German Literature"
+    },
+    {
+      "subject": "GER",
+      "catalog_number": "790",
+      "units": 0.5,
+      "title": "Topics in Intercultural Perspectives"
+    },
+    {
+      "subject": "GER",
+      "catalog_number": "792",
+      "units": 0.5,
+      "title": "Master's Thesis Colloquium"
+    },
+    {
+      "subject": "GERON",
+      "catalog_number": "210",
+      "units": 0.5,
+      "title": "Development, Aging and Health"
+    },
+    {
+      "subject": "GERON",
+      "catalog_number": "255",
+      "units": 0.5,
+      "title": "The Biology of Aging"
+    },
+    {
+      "subject": "GERON",
+      "catalog_number": "401A",
+      "units": 0.5,
+      "title": "Independent Study in Aging"
+    },
+    {
+      "subject": "GERON",
+      "catalog_number": "401B",
+      "units": 0.5,
+      "title": "Independent Study in Aging"
+    },
+    {
+      "subject": "GRK",
+      "catalog_number": "341",
+      "units": 0.5,
+      "title": "Advanced Studies in Greek: Selected Topics"
+    },
+    {
+      "subject": "GRK",
+      "catalog_number": "490",
+      "units": 0.5,
+      "title": "Senior Studies in Greek: Selected Topics"
+    },
+    {
+      "subject": "GS",
+      "catalog_number": "901",
+      "units": 0,
+      "title": "Preparing for University Teaching"
+    },
+    {
+      "subject": "GS",
+      "catalog_number": "902",
+      "units": 0,
+      "title": "Preparing for an Academic Career"
+    },
+    {
+      "subject": "GS",
+      "catalog_number": "903",
+      "units": 0,
+      "title": "Teaching Practicum"
+    },
+    {
+      "subject": "GS",
+      "catalog_number": ";",
+      "units": 0,
+      "title": "Continuing Graduate Studies"
+    },
+    {
+      "subject": "HIST",
+      "catalog_number": "128W",
+      "units": 0.5,
+      "title": "Revolution in the Modern World"
+    },
+    {
+      "subject": "HIST",
+      "catalog_number": "200",
+      "units": 0.5,
+      "title": "History and Film"
+    },
+    {
+      "subject": "HIST",
+      "catalog_number": "229W",
+      "units": 0.5,
+      "title": "Survey of African History(WLU)"
+    },
+    {
+      "subject": "HIST",
+      "catalog_number": "230",
+      "units": 0.5,
+      "title": "Introduction to the Modern Middle East"
+    },
+    {
+      "subject": "HIST",
+      "catalog_number": "247",
+      "units": 0.5,
+      "title": "Mennonite History: A Survey"
+    },
+    {
+      "subject": "HIST",
+      "catalog_number": "258",
+      "units": 0.5,
+      "title": "The United States: From World Power to the War on Terror"
+    },
+    {
+      "subject": "HIST",
+      "catalog_number": "291",
+      "units": 0.5,
+      "title": "Special Topics in History"
+    },
+    {
+      "subject": "HIST",
+      "catalog_number": "311",
+      "units": 0.5,
+      "title": "International Relations, 1890-1951"
+    },
+    {
+      "subject": "HIST",
+      "catalog_number": "397",
+      "units": 0.5,
+      "title": "Directed Studies in Special Topics"
+    },
+    {
+      "subject": "HIST",
+      "catalog_number": "491",
+      "units": 1,
+      "title": "Independent Study in Special Subjects"
+    },
+    {
+      "subject": "HIST",
+      "catalog_number": "691C",
+      "units": 0.5,
+      "title": "Directed Studies"
+    },
+    {
+      "subject": "HIST",
+      "catalog_number": "701",
+      "units": 0.5,
+      "title": "Major Field Oral Qualifying Examination"
+    },
+    {
+      "subject": "HIST",
+      "catalog_number": "704",
+      "units": 0.5,
+      "title": "Major Field Written Qualifying Examination"
+    },
+    {
+      "subject": "HIST",
+      "catalog_number": "705",
+      "units": 0.5,
+      "title": "First Minor Area of Concentration"
+    },
+    {
+      "subject": "HIST",
+      "catalog_number": "706",
+      "units": 0.5,
+      "title": "Second Minor Area of Concentration"
+    },
+    {
+      "subject": "HIST",
+      "catalog_number": "760",
+      "units": 1,
+      "title": "Canadian History Minor Area Seminar"
+    },
+    {
+      "subject": "HIST",
+      "catalog_number": "768",
+      "units": 1,
+      "title": "United States Minor Area Seminar"
+    },
+    {
+      "subject": "HLTH",
+      "catalog_number": "203",
+      "units": 0.5,
+      "title": "Systems Thinking for Health"
+    },
+    {
+      "subject": "HLTH",
+      "catalog_number": "210",
+      "units": 0.5,
+      "title": "Development, Aging and Health"
+    },
+    {
+      "subject": "HLTH",
+      "catalog_number": "260",
+      "units": 0.5,
+      "title": "Social Determinants of Health"
+    },
+    {
+      "subject": "HLTH",
+      "catalog_number": "273",
+      "units": 0.5,
+      "title": "Contemporary Issues in Health 2"
+    },
+    {
+      "subject": "HLTH",
+      "catalog_number": "405",
+      "units": 2.5,
+      "title": "International Exchange"
+    },
+    {
+      "subject": "HLTH",
+      "catalog_number": "432A",
+      "units": 0.5,
+      "title": "Honours Thesis (A)"
+    },
+    {
+      "subject": "HLTH",
+      "catalog_number": "432B",
+      "units": 0.5,
+      "title": "Honours Thesis (B)"
+    },
+    {
+      "subject": "HLTH",
+      "catalog_number": "472",
+      "units": 0.5,
+      "title": "Independent Study"
+    },
+    {
+      "subject": "HRM",
+      "catalog_number": "200",
+      "units": 0.5,
+      "title": "Basic Human Resources Management"
+    },
+    {
+      "subject": "HRM",
+      "catalog_number": "303",
+      "units": 0.5,
+      "title": "Compensation"
+    },
+    {
+      "subject": "HRM",
+      "catalog_number": "305",
+      "units": 0.5,
+      "title": "Health and Safety"
+    },
+    {
+      "subject": "HRM",
+      "catalog_number": "307",
+      "units": 0.5,
+      "title": "Labour Relations"
+    },
+    {
+      "subject": "HSG",
+      "catalog_number": "609",
+      "units": 0.5,
+      "title": "Population Intervention Research for Chronic Disease Prevention"
+    },
+    {
+      "subject": "HSG",
+      "catalog_number": "620",
+      "units": 0.5,
+      "title": "Selected Topics"
+    },
+    {
+      "subject": "HSG",
+      "catalog_number": "641",
+      "units": 0.5,
+      "title": "Practicum"
+    },
+    {
+      "subject": "HSG",
+      "catalog_number": "741",
+      "units": 0.5,
+      "title": "Advanced Practicum"
+    },
+    {
+      "subject": "INDEV",
+      "catalog_number": "304",
+      "units": 0.5,
+      "title": "Language Conversation for Development Field Work"
+    },
+    {
+      "subject": "INDEV",
+      "catalog_number": "474",
+      "units": 0.5,
+      "title": "Special Topics in International Development"
+    },
+    {
+      "subject": "INDEV",
+      "catalog_number": "476",
+      "units": 0.5,
+      "title": "Contemporary Issues in Development Practice"
+    },
+    {
+      "subject": "INDEV",
+      "catalog_number": "611",
+      "units": 0.5,
+      "title": "Field Placement"
+    },
+    {
+      "subject": "INTEG",
+      "catalog_number": "420",
+      "units": 0.5,
+      "title": "Senior Research Project A"
+    },
+    {
+      "subject": "INTEG",
+      "catalog_number": "421",
+      "units": 0.5,
+      "title": "Senior Research Project B"
+    },
+    {
+      "subject": "INTERN",
+      "catalog_number": ";",
+      "units": 2.5,
+      "title": "Internship"
+    },
+    {
+      "subject": "INTST",
+      "catalog_number": "101",
+      "units": 0.5,
+      "title": "Introduction to International Studies"
+    },
+    {
+      "subject": "IS",
+      "catalog_number": "100",
+      "units": 0.5,
+      "title": "Introduction to Research Methods"
+    },
+    {
+      "subject": "IS",
+      "catalog_number": "101",
+      "units": 0.5,
+      "title": "Introductory Independent Research"
+    },
+    {
+      "subject": "IS",
+      "catalog_number": "102",
+      "units": 0.5,
+      "title": "Introductory Independent Research"
+    },
+    {
+      "subject": "IS",
+      "catalog_number": "103",
+      "units": 0.5,
+      "title": "Introductory Independent Research"
+    },
+    {
+      "subject": "IS",
+      "catalog_number": "104",
+      "units": 0.5,
+      "title": "Introductory Independent Research"
+    },
+    {
+      "subject": "IS",
+      "catalog_number": "105",
+      "units": 0.5,
+      "title": "Introductory Independent Research"
+    },
+    {
+      "subject": "IS",
+      "catalog_number": "106",
+      "units": 0.5,
+      "title": "Introductory Independent Research"
+    },
+    {
+      "subject": "IS",
+      "catalog_number": "107",
+      "units": 0.5,
+      "title": "Introductory Independent Research"
+    },
+    {
+      "subject": "IS",
+      "catalog_number": "108",
+      "units": 0.5,
+      "title": "Introductory Independent Research"
+    },
+    {
+      "subject": "IS",
+      "catalog_number": "109",
+      "units": 0.5,
+      "title": "Introductory Independent Research"
+    },
+    {
+      "subject": "IS",
+      "catalog_number": "110",
+      "units": 0.5,
+      "title": "Introductory Independent Research"
+    },
+    {
+      "subject": "IS",
+      "catalog_number": "200",
+      "units": 0.5,
+      "title": "Interdisciplinary Research Design for Independent Studies"
+    },
+    {
+      "subject": "IS",
+      "catalog_number": "201",
+      "units": 0.5,
+      "title": "Independent Research"
+    },
+    {
+      "subject": "IS",
+      "catalog_number": "202",
+      "units": 0.5,
+      "title": "Independent Research"
+    },
+    {
+      "subject": "IS",
+      "catalog_number": "203",
+      "units": 0.5,
+      "title": "Independent Research"
+    },
+    {
+      "subject": "IS",
+      "catalog_number": "204",
+      "units": 0.5,
+      "title": "Independent Research"
+    },
+    {
+      "subject": "IS",
+      "catalog_number": "205",
+      "units": 0.5,
+      "title": "Independent Research"
+    },
+    {
+      "subject": "IS",
+      "catalog_number": "206",
+      "units": 0.5,
+      "title": "Independent Research"
+    },
+    {
+      "subject": "IS",
+      "catalog_number": "207",
+      "units": 0.5,
+      "title": "Independent Research"
+    },
+    {
+      "subject": "IS",
+      "catalog_number": "208",
+      "units": 0.5,
+      "title": "Independent Research"
+    },
+    {
+      "subject": "IS",
+      "catalog_number": "209",
+      "units": 0.5,
+      "title": "Independent Research"
+    },
+    {
+      "subject": "IS",
+      "catalog_number": "210",
+      "units": 0.5,
+      "title": "Independent Research"
+    },
+    {
+      "subject": "IS",
+      "catalog_number": "211",
+      "units": 0.5,
+      "title": "Independent Research"
+    },
+    {
+      "subject": "IS",
+      "catalog_number": "212",
+      "units": 0.5,
+      "title": "Independent Research"
+    },
+    {
+      "subject": "IS",
+      "catalog_number": "220",
+      "units": 0.5,
+      "title": "Thesis Proposal Development"
+    },
+    {
+      "subject": "IS",
+      "catalog_number": "301",
+      "units": 0.5,
+      "title": "Advanced Independent Research"
+    },
+    {
+      "subject": "IS",
+      "catalog_number": "302",
+      "units": 0.5,
+      "title": "Advanced Independent Research"
+    },
+    {
+      "subject": "IS",
+      "catalog_number": "304",
+      "units": 0.5,
+      "title": "Advanced Independent Research"
+    },
+    {
+      "subject": "IS",
+      "catalog_number": "305",
+      "units": 0.5,
+      "title": "Advanced Independent Research"
+    },
+    {
+      "subject": "IS",
+      "catalog_number": "306",
+      "units": 0.5,
+      "title": "Advanced Independent Research"
+    },
+    {
+      "subject": "IS",
+      "catalog_number": "307",
+      "units": 0.5,
+      "title": "Advanced Independent Research"
+    },
+    {
+      "subject": "IS",
+      "catalog_number": "308",
+      "units": 0.5,
+      "title": "Advanced Independent Research"
+    },
+    {
+      "subject": "IS",
+      "catalog_number": "309",
+      "units": 0.5,
+      "title": "Advanced Independent Research"
+    },
+    {
+      "subject": "IS",
+      "catalog_number": "310",
+      "units": 2.5,
+      "title": "Thesis Phase I"
+    },
+    {
+      "subject": "IS",
+      "catalog_number": "311",
+      "units": 1.25,
+      "title": "Part-time Thesis Phase Stage I - Part 1"
+    },
+    {
+      "subject": "IS",
+      "catalog_number": "312",
+      "units": 1.25,
+      "title": "Part-time Thesis Phase Stage I - Part 2"
+    },
+    {
+      "subject": "IS",
+      "catalog_number": "320",
+      "units": 2.5,
+      "title": "Thesis Phase II"
+    },
+    {
+      "subject": "IS",
+      "catalog_number": "321",
+      "units": 1.25,
+      "title": "Part-time Thesis Phase Stage II - Part 1"
+    },
+    {
+      "subject": "IS",
+      "catalog_number": "322",
+      "units": 1.25,
+      "title": "Part-time Thesis Phase Stage II - Part 2"
+    },
+    {
+      "subject": "IS",
+      "catalog_number": "330",
+      "units": 0.5,
+      "title": "Honours Thesis Proposal Development"
+    },
+    {
+      "subject": "IS",
+      "catalog_number": "401",
+      "units": 0.5,
+      "title": "Honours Independent Research"
+    },
+    {
+      "subject": "IS",
+      "catalog_number": "402",
+      "units": 0.5,
+      "title": "Honours Independent Research"
+    },
+    {
+      "subject": "IS",
+      "catalog_number": "403",
+      "units": 0.5,
+      "title": "Honours Independent Research"
+    },
+    {
+      "subject": "IS",
+      "catalog_number": "404",
+      "units": 0.5,
+      "title": "Honours Independent Research"
+    },
+    {
+      "subject": "IS",
+      "catalog_number": "405",
+      "units": 0.5,
+      "title": "Honours Independent Research"
+    },
+    {
+      "subject": "IS",
+      "catalog_number": "410",
+      "units": 2.5,
+      "title": "Honours Thesis Phase I"
+    },
+    {
+      "subject": "IS",
+      "catalog_number": "411",
+      "units": 1.25,
+      "title": "Part-time Honours Thesis Phase Stage I - Part 1"
+    },
+    {
+      "subject": "IS",
+      "catalog_number": "412",
+      "units": 1.25,
+      "title": "Part-time Honours Thesis Phase Stage I - Part 2"
+    },
+    {
+      "subject": "IS",
+      "catalog_number": "420",
+      "units": 2.5,
+      "title": "Honours Thesis Phase II"
+    },
+    {
+      "subject": "IS",
+      "catalog_number": "421",
+      "units": 1.25,
+      "title": "Part-time Honours Thesis Phase Stage II - Part 1"
+    },
+    {
+      "subject": "IS",
+      "catalog_number": "422",
+      "units": 1.25,
+      "title": "Part-time Honours Thesis Phase Stage II - Part 2"
+    },
+    {
+      "subject": "ITALST",
+      "catalog_number": "111",
+      "units": 0.5,
+      "title": "Women, Family, Sex and Tradition"
+    },
+    {
+      "subject": "JAPAN",
+      "catalog_number": "101R",
+      "units": 0.5,
+      "title": "First-Year Japanese 1"
+    },
+    {
+      "subject": "JAPAN",
+      "catalog_number": "102R",
+      "units": 0.5,
+      "title": "First-Year Japanese 2"
+    },
+    {
+      "subject": "JAPAN",
+      "catalog_number": "201R",
+      "units": 0.5,
+      "title": "Second-Year Japanese 1"
+    },
+    {
+      "subject": "JAPAN",
+      "catalog_number": "202R",
+      "units": 0.5,
+      "title": "Second-Year Japanese 2"
+    },
+    {
+      "subject": "JS",
+      "catalog_number": "233",
+      "units": 0.5,
+      "title": "The Holocaust and Film"
+    },
+    {
+      "subject": "KIN",
+      "catalog_number": "1",
+      "units": 0,
+      "title": "Discussion of Behavioural Issues"
+    },
+    {
+      "subject": "KIN",
+      "catalog_number": "10",
+      "units": 0,
+      "title": "Ergonomics Option Seminar"
+    },
+    {
+      "subject": "KIN",
+      "catalog_number": "205",
+      "units": 0.5,
+      "title": "Muscle Physiology in Exercise and Work"
+    },
+    {
+      "subject": "KIN",
+      "catalog_number": "210",
+      "units": 0.5,
+      "title": "Development, Aging and Health"
+    },
+    {
+      "subject": "KIN",
+      "catalog_number": "221",
+      "units": 0.5,
+      "title": "Advanced Biomechanics of Human Movement"
+    },
+    {
+      "subject": "KIN",
+      "catalog_number": "222",
+      "units": 0.5,
+      "title": "Statistical Techniques Applied to Kinesiology"
+    },
+    {
+      "subject": "KIN",
+      "catalog_number": "242",
+      "units": 0.5,
+      "title": "Introduction to Movement Disorders"
+    },
+    {
+      "subject": "KIN",
+      "catalog_number": "372",
+      "units": 2.5,
+      "title": "International Exchange"
+    },
+    {
+      "subject": "KIN",
+      "catalog_number": "391",
+      "units": 0.5,
+      "title": "Research Apprenticeship"
+    },
+    {
+      "subject": "KIN",
+      "catalog_number": "431",
+      "units": 0.5,
+      "title": "Research Proposal"
+    },
+    {
+      "subject": "KIN",
+      "catalog_number": "432",
+      "units": 0.5,
+      "title": "Research Project"
+    },
+    {
+      "subject": "KIN",
+      "catalog_number": "433",
+      "units": 0.5,
+      "title": "Senior Essay"
+    },
+    {
+      "subject": "KIN",
+      "catalog_number": "472",
+      "units": 0.5,
+      "title": "Directed Study in Special Topics"
+    },
+    {
+      "subject": "KIN",
+      "catalog_number": "616",
+      "units": 0.5,
+      "title": "Neural Control of Human Movement"
+    },
+    {
+      "subject": "KIN",
+      "catalog_number": "680",
+      "units": 0.5,
+      "title": "Selected Topics in Physiology and Nutrition"
+    },
+    {
+      "subject": "KIN",
+      "catalog_number": "682",
+      "units": 0.5,
+      "title": "Selected Topics in Biomechanics"
+    },
+    {
+      "subject": "KIN",
+      "catalog_number": "686",
+      "units": 0.5,
+      "title": "Selected Topics in Neuroscience I"
+    },
+    {
+      "subject": "KIN",
+      "catalog_number": "760",
+      "units": 0.5,
+      "title": "Selected Topics Neuroscience II"
+    },
+    {
+      "subject": "KIN",
+      "catalog_number": "780",
+      "units": 0.5,
+      "title": "Selected Topics in Physiology and Nutrition"
+    },
+    {
+      "subject": "KIN",
+      "catalog_number": "782",
+      "units": 0.5,
+      "title": "Selected Topics in Biomechanics"
+    },
+    {
+      "subject": "KOREA",
+      "catalog_number": "101R",
+      "units": 0.5,
+      "title": "First-Year Korean 1"
+    },
+    {
+      "subject": "KPE",
+      "catalog_number": "112W",
+      "units": 0.25,
+      "title": "Physical Fitness (WLU)"
+    },
+    {
+      "subject": "KPE",
+      "catalog_number": "118W",
+      "units": 0.25,
+      "title": "Strength Training (WLU)"
+    },
+    {
+      "subject": "LS",
+      "catalog_number": "101",
+      "units": 0.5,
+      "title": "Introduction to Legal Studies"
+    },
+    {
+      "subject": "LS",
+      "catalog_number": "227",
+      "units": 0.5,
+      "title": "Criminology"
+    },
+    {
+      "subject": "LS",
+      "catalog_number": "229",
+      "units": 0.5,
+      "title": "Selected Topics in Criminology"
+    },
+    {
+      "subject": "LS",
+      "catalog_number": "271",
+      "units": 0.5,
+      "title": "Conflict Resolution"
+    },
+    {
+      "subject": "LS",
+      "catalog_number": "273",
+      "units": 0.5,
+      "title": "Children's Rights in Canada"
+    },
+    {
+      "subject": "LS",
+      "catalog_number": "300",
+      "units": 0.5,
+      "title": "Sociology of Law"
+    },
+    {
+      "subject": "LS",
+      "catalog_number": "327",
+      "units": 0.5,
+      "title": "Policing in a Democratic Society"
+    },
+    {
+      "subject": "LS",
+      "catalog_number": "351",
+      "units": 0.5,
+      "title": "Philosophy of Law"
+    },
+    {
+      "subject": "LS",
+      "catalog_number": "498",
+      "units": 0.5,
+      "title": "Directed Readings in Legal Studies"
+    },
+    {
+      "subject": "MATH",
+      "catalog_number": "106",
+      "units": 0.5,
+      "title": "Applied Linear Algebra 1"
+    },
+    {
+      "subject": "MATH",
+      "catalog_number": "115",
+      "units": 0.5,
+      "title": "Linear Algebra for Engineering"
+    },
+    {
+      "subject": "MATH",
+      "catalog_number": "116",
+      "units": 0.5,
+      "title": "Calculus 1 for Engineering"
+    },
+    {
+      "subject": "MATH",
+      "catalog_number": "117",
+      "units": 0.5,
+      "title": "Calculus 1 for Engineering"
+    },
+    {
+      "subject": "MATH",
+      "catalog_number": "118",
+      "units": 0.5,
+      "title": "Calculus 2 for Engineering"
+    },
+    {
+      "subject": "MATH",
+      "catalog_number": "119",
+      "units": 0.5,
+      "title": "Calculus 2 for Engineering"
+    },
+    {
+      "subject": "MATH",
+      "catalog_number": "127",
+      "units": 0.5,
+      "title": "Calculus 1 for the Sciences"
+    },
+    {
+      "subject": "MATH",
+      "catalog_number": "128",
+      "units": 0.5,
+      "title": "Calculus 2 for the Sciences"
+    },
+    {
+      "subject": "MATH",
+      "catalog_number": "135",
+      "units": 0.5,
+      "title": "Algebra for Honours Mathematics"
+    },
+    {
+      "subject": "MATH",
+      "catalog_number": "136",
+      "units": 0.5,
+      "title": "Linear Algebra 1 for Honours Mathematics"
+    },
+    {
+      "subject": "MATH",
+      "catalog_number": "137",
+      "units": 0.5,
+      "title": "Calculus 1 for Honours Mathematics"
+    },
+    {
+      "subject": "MATH",
+      "catalog_number": "138",
+      "units": 0.5,
+      "title": "Calculus 2 For Honours Mathematics"
+    },
+    {
+      "subject": "MATH",
+      "catalog_number": "207",
+      "units": 0.5,
+      "title": "Calculus 3 (Non-Specialist Level)"
+    },
+    {
+      "subject": "MATH",
+      "catalog_number": "213",
+      "units": 0.5,
+      "title": "Advanced Mathematics for Software Engineers"
+    },
+    {
+      "subject": "MATH",
+      "catalog_number": "218",
+      "units": 0.5,
+      "title": "Differential Equations for Engineers"
+    },
+    {
+      "subject": "MATH",
+      "catalog_number": "225",
+      "units": 0.5,
+      "title": "Applied Linear Algebra 2"
+    },
+    {
+      "subject": "MATH",
+      "catalog_number": "235",
+      "units": 0.5,
+      "title": "Linear Algebra 2 for Honours Mathematics"
+    },
+    {
+      "subject": "MATH",
+      "catalog_number": "237",
+      "units": 0.5,
+      "title": "Calculus 3 for Honours Mathematics"
+    },
+    {
+      "subject": "MATH",
+      "catalog_number": "239",
+      "units": 0.5,
+      "title": "Introduction to Combinatorics"
+    },
+    {
+      "subject": "MATH",
+      "catalog_number": "245",
+      "units": 0.5,
+      "title": "Linear Algebra 2 (Advanced Level)"
+    },
+    {
+      "subject": "MATH",
+      "catalog_number": "247",
+      "units": 0.5,
+      "title": "Calculus 3 (Advanced Level)"
+    },
+    {
+      "subject": "MATH",
+      "catalog_number": "636",
+      "units": 0.5,
+      "title": "Linear Algebra for Teachers"
+    },
+    {
+      "subject": "MATH",
+      "catalog_number": "642",
+      "units": 0.5,
+      "title": "Introduction to Computer Science: A Mathematical Perspective"
+    },
+    {
+      "subject": "MATH",
+      "catalog_number": "648",
+      "units": 0.5,
+      "title": "Foundations of Calculus II"
+    },
+    {
+      "subject": "MATH",
+      "catalog_number": "661",
+      "units": 0.5,
+      "title": "Problem Solving and Proof in Geometry"
+    },
+    {
+      "subject": "MATH",
+      "catalog_number": "680",
+      "units": 0.5,
+      "title": "History of Mathematics"
+    },
+    {
+      "subject": "MATH",
+      "catalog_number": "690",
+      "units": 0.25,
+      "title": "Summer Conference for Teachers of Mathematics"
+    },
+    {
+      "subject": "MATH",
+      "catalog_number": "699",
+      "units": 0.5,
+      "title": "Master of Mathematics for Teachers Capstone"
+    },
+    {
+      "subject": "MATH",
+      "catalog_number": "97",
+      "units": 2.5,
+      "title": "Study Abroad"
+    },
+    {
+      "subject": "ME",
+      "catalog_number": "100B",
+      "units": 0,
+      "title": "Seminar"
+    },
+    {
+      "subject": "ME",
+      "catalog_number": "101",
+      "units": 0.75,
+      "title": "Introduction to Mechanical Engineering Practice 2"
+    },
+    {
+      "subject": "ME",
+      "catalog_number": "115",
+      "units": 0.5,
+      "title": "Structure and Properties of Materials"
+    },
+    {
+      "subject": "ME",
+      "catalog_number": "200B",
+      "units": 0,
+      "title": "Seminar"
+    },
+    {
+      "subject": "ME",
+      "catalog_number": "203",
+      "units": 0.5,
+      "title": "Ordinary Differential Equations"
+    },
+    {
+      "subject": "ME",
+      "catalog_number": "212",
+      "units": 0.5,
+      "title": "Dynamics"
+    },
+    {
+      "subject": "ME",
+      "catalog_number": "219",
+      "units": 0.5,
+      "title": "Mechanics of Deformable Solids 1"
+    },
+    {
+      "subject": "ME",
+      "catalog_number": "220",
+      "units": 0.5,
+      "title": "Mechanics of Deformable Solids 2"
+    },
+    {
+      "subject": "ME",
+      "catalog_number": "250",
+      "units": 0.5,
+      "title": "Thermodynamics 1"
+    },
+    {
+      "subject": "ME",
+      "catalog_number": "262",
+      "units": 0.5,
+      "title": "Introduction to Microprocessors and Digital Logic"
+    },
+    {
+      "subject": "ME",
+      "catalog_number": "300A",
+      "units": 0,
+      "title": "Seminar"
+    },
+    {
+      "subject": "ME",
+      "catalog_number": "303",
+      "units": 0.5,
+      "title": "Advanced Engineering Mathematics"
+    },
+    {
+      "subject": "ME",
+      "catalog_number": "321",
+      "units": 0.5,
+      "title": "Kinematics and Dynamics of Machines"
+    },
+    {
+      "subject": "ME",
+      "catalog_number": "340",
+      "units": 0.5,
+      "title": "Manufacturing Processes"
+    },
+    {
+      "subject": "ME",
+      "catalog_number": "351",
+      "units": 0.5,
+      "title": "Fluid Mechanics 1"
+    },
+    {
+      "subject": "ME",
+      "catalog_number": "354",
+      "units": 0.5,
+      "title": "Thermodynamics 2"
+    },
+    {
+      "subject": "ME",
+      "catalog_number": "400A",
+      "units": 0,
+      "title": "Seminar"
+    },
+    {
+      "subject": "ME",
+      "catalog_number": "401",
+      "units": 0.5,
+      "title": "Law for the Professional Engineer"
+    },
+    {
+      "subject": "ME",
+      "catalog_number": "423",
+      "units": 0.5,
+      "title": "Mechanical Design 2"
+    },
+    {
+      "subject": "ME",
+      "catalog_number": "435",
+      "units": 0.5,
+      "title": "Industrial Metallurgy"
+    },
+    {
+      "subject": "ME",
+      "catalog_number": "436",
+      "units": 0.5,
+      "title": "Welding and Joining Processes"
+    },
+    {
+      "subject": "ME",
+      "catalog_number": "456",
+      "units": 0.5,
+      "title": "Heat Transfer 2"
+    },
+    {
+      "subject": "ME",
+      "catalog_number": "459",
+      "units": 0.5,
+      "title": "Energy Conversion"
+    },
+    {
+      "subject": "ME",
+      "catalog_number": "481",
+      "units": 0.5,
+      "title": "Mechanical Engineering Design Project 1"
+    },
+    {
+      "subject": "ME",
+      "catalog_number": "482",
+      "units": 0.5,
+      "title": "Mechanical Engineering Design Project 2"
+    },
+    {
+      "subject": "ME",
+      "catalog_number": "548",
+      "units": 0.5,
+      "title": "Numerical Control of Machine Tools 1"
+    },
+    {
+      "subject": "ME",
+      "catalog_number": "559",
+      "units": 0.5,
+      "title": "Finite Element Methods"
+    },
+    {
+      "subject": "ME",
+      "catalog_number": "561",
+      "units": 0.5,
+      "title": "Fluid Power Control Systems"
+    },
+    {
+      "subject": "ME",
+      "catalog_number": "566",
+      "units": 0.5,
+      "title": "Computational Fluid Dynamics for Engineering Design"
+    },
+    {
+      "subject": "ME",
+      "catalog_number": "596",
+      "units": 0.5,
+      "title": "Special Topics in Mechanical Engineering"
+    },
+    {
+      "subject": "ME",
+      "catalog_number": "599",
+      "units": 0.5,
+      "title": "Special Topics in Mechanical Engineering"
+    },
+    {
+      "subject": "ME",
+      "catalog_number": "631",
+      "units": 0.5,
+      "title": "Mechanical Metallurgy"
+    },
+    {
+      "subject": "ME",
+      "catalog_number": "664",
+      "units": 0.5,
+      "title": "Turbulent Flow"
+    },
+    {
+      "subject": "ME",
+      "catalog_number": "682",
+      "units": 0.5,
+      "title": "Adv Design Eng- DP2"
+    },
+    {
+      "subject": "ME",
+      "catalog_number": "720",
+      "units": 0.5,
+      "title": "Special Topics in Solid Mechanics"
+    },
+    {
+      "subject": "ME",
+      "catalog_number": "725",
+      "units": 0.5,
+      "title": "Special Topics in Advanced Stress Analysis"
+    },
+    {
+      "subject": "ME",
+      "catalog_number": "735",
+      "units": 0.5,
+      "title": "Special Topics - Welding and Joining"
+    },
+    {
+      "subject": "ME",
+      "catalog_number": "738",
+      "units": 0.5,
+      "title": "Special Topics in Materials"
+    },
+    {
+      "subject": "ME",
+      "catalog_number": "751",
+      "units": 0.5,
+      "title": "Fuel Cell Technology"
+    },
+    {
+      "subject": "ME",
+      "catalog_number": "760",
+      "units": 0.5,
+      "title": "Special Topics in Thermal Engineering: Air Pollution and Greenhouse Gases"
+    },
+    {
+      "subject": "ME",
+      "catalog_number": "770",
+      "units": 0.5,
+      "title": "Special Topics in Numerical Methods, Fluid Flow and Heat Transfer"
+    },
+    {
+      "subject": "ME",
+      "catalog_number": "780",
+      "units": 0.5,
+      "title": "Special Topics in Mechatronics"
+    },
+    {
+      "subject": "MNS",
+      "catalog_number": "201L",
+      "units": 0.5,
+      "title": "Materials and Nanosciences Laboratory"
+    },
+    {
+      "subject": "MNS",
+      "catalog_number": "221",
+      "units": 0.5,
+      "title": "Physics and the Solid State"
+    },
+    {
+      "subject": "MNS",
+      "catalog_number": "321",
+      "units": 0.5,
+      "title": "Electrical and Optical Properties of Materials"
+    },
+    {
+      "subject": "MSCI",
+      "catalog_number": "200B",
+      "units": 0,
+      "title": "Seminar"
+    },
+    {
+      "subject": "MSCI",
+      "catalog_number": "211",
+      "units": 0.5,
+      "title": "Organizational Behaviour"
+    },
+    {
+      "subject": "MSCI",
+      "catalog_number": "252",
+      "units": 0.5,
+      "title": "Probability and Statistics for Engineers"
+    },
+    {
+      "subject": "MSCI",
+      "catalog_number": "261",
+      "units": 0.5,
+      "title": "Engineering Economics: Financial Management for Engineers"
+    },
+    {
+      "subject": "MSCI",
+      "catalog_number": "263",
+      "units": 0.5,
+      "title": "Managerial Economics"
+    },
+    {
+      "subject": "MSCI",
+      "catalog_number": "331",
+      "units": 0.5,
+      "title": "Introduction to Optimization"
+    },
+    {
+      "subject": "MSCI",
+      "catalog_number": "346",
+      "units": 0.5,
+      "title": "Database Systems"
+    },
+    {
+      "subject": "MSCI",
+      "catalog_number": "400A",
+      "units": 0,
+      "title": "Seminar"
+    },
+    {
+      "subject": "MSCI",
+      "catalog_number": "401",
+      "units": 0.5,
+      "title": "Management Engineering Design Project 1"
+    },
+    {
+      "subject": "MSCI",
+      "catalog_number": "421",
+      "units": 0.5,
+      "title": "Strategic Management of Technology"
+    },
+    {
+      "subject": "MSCI",
+      "catalog_number": "434",
+      "units": 0.5,
+      "title": "Supply Chain Management"
+    },
+    {
+      "subject": "MSCI",
+      "catalog_number": "445",
+      "units": 0.5,
+      "title": "Telecommunication Systems: from protocols to applications"
+    },
+    {
+      "subject": "MSCI",
+      "catalog_number": "452",
+      "units": 0.5,
+      "title": "Decision Making Under Uncertainty"
+    },
+    {
+      "subject": "MSCI",
+      "catalog_number": "551",
+      "units": 0.5,
+      "title": "Quality Management and Control"
+    },
+    {
+      "subject": "MSCI",
+      "catalog_number": "602",
+      "units": 0.5,
+      "title": "Strategic Management of Technological Innovation"
+    },
+    {
+      "subject": "MSCI",
+      "catalog_number": "606",
+      "units": 0.5,
+      "title": "Foundations of Senior Management"
+    },
+    {
+      "subject": "MSCI",
+      "catalog_number": "700",
+      "units": 0.5,
+      "title": "Topics in Operations Research and Management"
+    },
+    {
+      "subject": "MSCI",
+      "catalog_number": "712",
+      "units": 0.5,
+      "title": "Decision Analysis Under Uncertainty"
+    },
+    {
+      "subject": "MSCI",
+      "catalog_number": "720",
+      "units": 0.5,
+      "title": "Topics in Information and Information Systems"
+    },
+    {
+      "subject": "MSCI",
+      "catalog_number": "724",
+      "units": 0.5,
+      "title": "Design and Analysis of Information Procurement Mechanisms"
+    },
+    {
+      "subject": "MTE",
+      "catalog_number": "100B",
+      "units": 0,
+      "title": "Seminar"
+    },
+    {
+      "subject": "MTE",
+      "catalog_number": "111",
+      "units": 0.5,
+      "title": "Structure and Properties of Materials"
+    },
+    {
+      "subject": "MTE",
+      "catalog_number": "119",
+      "units": 0.5,
+      "title": "Statics"
+    },
+    {
+      "subject": "MTE",
+      "catalog_number": "120",
+      "units": 0.75,
+      "title": "Circuits"
+    },
+    {
+      "subject": "MTE",
+      "catalog_number": "140",
+      "units": 0.5,
+      "title": "Algorithms and Data Structures"
+    },
+    {
+      "subject": "MTE",
+      "catalog_number": "200B",
+      "units": 0,
+      "title": "Seminar"
+    },
+    {
+      "subject": "MTE",
+      "catalog_number": "203",
+      "units": 0.5,
+      "title": "Advanced Calculus"
+    },
+    {
+      "subject": "MTE",
+      "catalog_number": "204",
+      "units": 0.5,
+      "title": "Numerical Methods"
+    },
+    {
+      "subject": "MTE",
+      "catalog_number": "220",
+      "units": 0.5,
+      "title": "Sensors and Instrumentation"
+    },
+    {
+      "subject": "MTE",
+      "catalog_number": "241",
+      "units": 0.5,
+      "title": "Introduction to Computer Structures & Real-Time Systems"
+    },
+    {
+      "subject": "MTE",
+      "catalog_number": "300A",
+      "units": 0,
+      "title": "Seminar"
+    },
+    {
+      "subject": "MTE",
+      "catalog_number": "320",
+      "units": 0.5,
+      "title": "Actuators & Power Electronics"
+    },
+    {
+      "subject": "MTE",
+      "catalog_number": "325",
+      "units": 0.5,
+      "title": "Microprocessor Systems and Interfacing for Mechatronics Engineering"
+    },
+    {
+      "subject": "MTHEL",
+      "catalog_number": "131",
+      "units": 0.5,
+      "title": "Introduction to Actuarial Practice"
+    },
+    {
+      "subject": "MTHEL",
+      "catalog_number": "206A",
+      "units": 0.5,
+      "title": "Introduction to Mathematics Education"
+    },
+    {
+      "subject": "MUSIC",
+      "catalog_number": "100",
+      "units": 0.5,
+      "title": "Understanding Music"
+    },
+    {
+      "subject": "MUSIC",
+      "catalog_number": "116",
+      "units": 0.25,
+      "title": "Music Ensemble"
+    },
+    {
+      "subject": "MUSIC",
+      "catalog_number": "117",
+      "units": 0.25,
+      "title": "Music Ensemble"
+    },
+    {
+      "subject": "MUSIC",
+      "catalog_number": "140",
+      "units": 0.5,
+      "title": "Popular Music and Culture"
+    },
+    {
+      "subject": "MUSIC",
+      "catalog_number": "216",
+      "units": 0.25,
+      "title": "Music Ensemble"
+    },
+    {
+      "subject": "MUSIC",
+      "catalog_number": "217",
+      "units": 0.25,
+      "title": "Music Ensemble"
+    },
+    {
+      "subject": "MUSIC",
+      "catalog_number": "226",
+      "units": 0.5,
+      "title": "Music Studio"
+    },
+    {
+      "subject": "MUSIC",
+      "catalog_number": "227",
+      "units": 0.5,
+      "title": "Music Studio"
+    },
+    {
+      "subject": "MUSIC",
+      "catalog_number": "270",
+      "units": 0.5,
+      "title": "Music Theory 1"
+    },
+    {
+      "subject": "MUSIC",
+      "catalog_number": "316",
+      "units": 0.25,
+      "title": "Music Ensemble"
+    },
+    {
+      "subject": "MUSIC",
+      "catalog_number": "317",
+      "units": 0.25,
+      "title": "Music Ensemble"
+    },
+    {
+      "subject": "MUSIC",
+      "catalog_number": "326",
+      "units": 0.5,
+      "title": "Music Studio"
+    },
+    {
+      "subject": "MUSIC",
+      "catalog_number": "327",
+      "units": 0.5,
+      "title": "Music Studio"
+    },
+    {
+      "subject": "MUSIC",
+      "catalog_number": "353W",
+      "units": 1,
+      "title": "Inclsve Arts - Children (WLU)"
+    },
+    {
+      "subject": "MUSIC",
+      "catalog_number": "355",
+      "units": 0.5,
+      "title": "Music and Culture Travel Course"
+    },
+    {
+      "subject": "MUSIC",
+      "catalog_number": "380",
+      "units": 0.5,
+      "title": "Directed Study in Music"
+    },
+    {
+      "subject": "MUSIC",
+      "catalog_number": "381",
+      "units": 0.5,
+      "title": "Directed Study in Music"
+    },
+    {
+      "subject": "MUSIC",
+      "catalog_number": "426",
+      "units": 0.5,
+      "title": "Music Studio"
+    },
+    {
+      "subject": "MUSIC",
+      "catalog_number": "427",
+      "units": 0.5,
+      "title": "Music Studio"
+    },
+    {
+      "subject": "MUSIC",
+      "catalog_number": "428",
+      "units": 0.5,
+      "title": "Music Studio"
+    },
+    {
+      "subject": "MUSIC",
+      "catalog_number": "492",
+      "units": 0.5,
+      "title": "Senior Honours Thesis"
+    },
+    {
+      "subject": "NANO",
+      "catalog_number": "701",
+      "units": 0.25,
+      "title": "Fundamentals of Nanotechnology"
+    },
+    {
+      "subject": "NANO",
+      "catalog_number": "702",
+      "units": 0.25,
+      "title": "Nanotechnology Tools"
+    },
+    {
+      "subject": "NE",
+      "catalog_number": "102",
+      "units": 0.15,
+      "title": "Introduction to Nanomaterials Health Risk; Nanotechnology Engineering Practice"
+    },
+    {
+      "subject": "NE",
+      "catalog_number": "202",
+      "units": 0.15,
+      "title": "Nanotechnology Environmental and Occupational Health; Nanotechnology Engineering Practice"
+    },
+    {
+      "subject": "NE",
+      "catalog_number": "217",
+      "units": 0.5,
+      "title": "Advanced Calculus 2 for Nanotechnology Engineering"
+    },
+    {
+      "subject": "NE",
+      "catalog_number": "225",
+      "units": 0.5,
+      "title": "Structure and Properties of Nanomaterials"
+    },
+    {
+      "subject": "NE",
+      "catalog_number": "226",
+      "units": 0.5,
+      "title": "Characterization of Materials"
+    },
+    {
+      "subject": "NE",
+      "catalog_number": "226L",
+      "units": 0.25,
+      "title": "Laboratory Characterization Methods"
+    },
+    {
+      "subject": "NE",
+      "catalog_number": "242",
+      "units": 0.5,
+      "title": "Semiconductor Physics and Devices"
+    },
+    {
+      "subject": "NE",
+      "catalog_number": "301",
+      "units": 0.1,
+      "title": "Environmental Impact, Ecotoxicology, and Nanotechnology Engineering Practice"
+    },
+    {
+      "subject": "NE",
+      "catalog_number": "318",
+      "units": 0.5,
+      "title": "Continuum Mechanics for Nanotechnology Engineering"
+    },
+    {
+      "subject": "NE",
+      "catalog_number": "320L",
+      "units": 0.25,
+      "title": "Characterization of Materials Laboratory"
+    },
+    {
+      "subject": "NE",
+      "catalog_number": "333",
+      "units": 0.5,
+      "title": "Macromolecular Science 1"
+    },
+    {
+      "subject": "NE",
+      "catalog_number": "334",
+      "units": 0.5,
+      "title": "Statistical Thermodynamics"
+    },
+    {
+      "subject": "NE",
+      "catalog_number": "343",
+      "units": 0.5,
+      "title": "Microfabrication and Thin-film Technology"
+    },
+    {
+      "subject": "NE",
+      "catalog_number": "344",
+      "units": 0.5,
+      "title": "Electronic Circuits and Integration"
+    },
+    {
+      "subject": "OPTOM",
+      "catalog_number": "339",
+      "units": 0.5,
+      "title": "Visual Perception 3:Colour Vision"
+    },
+    {
+      "subject": "OPTOM",
+      "catalog_number": "412",
+      "units": 0.75,
+      "title": "Case Analysis 3"
+    },
+    {
+      "subject": "OPTOM",
+      "catalog_number": "458",
+      "units": 3,
+      "title": "Primary Care Externship"
+    },
+    {
+      "subject": "OPTOM",
+      "catalog_number": "460",
+      "units": 0.5,
+      "title": "Advanced Study Topics"
+    },
+    {
+      "subject": "OPTOM",
+      "catalog_number": "468",
+      "units": 3,
+      "title": "Ocular Disease and Therapeutics Externship"
+    },
+    {
+      "subject": "OPTOM",
+      "catalog_number": "477",
+      "units": 0.75,
+      "title": "Clinical Techniques 4"
+    },
+    {
+      "subject": "OPTOM",
+      "catalog_number": "478",
+      "units": 3,
+      "title": "Optometry Clinics"
+    },
+    {
+      "subject": "OPTOM",
+      "catalog_number": "608",
+      "units": 0.5,
+      "title": "Special Topics in Vision Science"
+    },
+    {
+      "subject": "OPTOM",
+      "catalog_number": "628",
+      "units": 0.5,
+      "title": "Special Topics in Vision Science"
+    },
+    {
+      "subject": "OPTOM",
+      "catalog_number": "650",
+      "units": 0.5,
+      "title": "Research Methodology for Vision Science"
+    },
+    {
+      "subject": "PACS",
+      "catalog_number": "201",
+      "units": 0.5,
+      "title": "Roots of Conflict, Violence, and Peace"
+    },
+    {
+      "subject": "PACS",
+      "catalog_number": "202",
+      "units": 0.5,
+      "title": "Conflict Resolution"
+    },
+    {
+      "subject": "PACS",
+      "catalog_number": "301",
+      "units": 0.5,
+      "title": "Special Topics in Peace and Conflict Studies 1"
+    },
+    {
+      "subject": "PACS",
+      "catalog_number": "302",
+      "units": 0.5,
+      "title": "Special Topics in Peace and Conflict Studies 2"
+    },
+    {
+      "subject": "PACS",
+      "catalog_number": "390",
+      "units": 0.5,
+      "title": "Internship"
+    },
+    {
+      "subject": "PACS",
+      "catalog_number": "391",
+      "units": 0.25,
+      "title": "Conflict Resolution Skills"
+    },
+    {
+      "subject": "PACS",
+      "catalog_number": "395",
+      "units": 0.5,
+      "title": "Peace and Conflict Studies Travel Course"
+    },
+    {
+      "subject": "PACS",
+      "catalog_number": "398",
+      "units": 0.5,
+      "title": "Directed Readings in Peace and Conflict Studies"
+    },
+    {
+      "subject": "PACS",
+      "catalog_number": "399",
+      "units": 0.5,
+      "title": "Directed Readings in Peace and Conflict Studies"
+    },
+    {
+      "subject": "PACS",
+      "catalog_number": "621",
+      "units": 0.5,
+      "title": "Peace Research"
+    },
+    {
+      "subject": "PACS",
+      "catalog_number": "625",
+      "units": 1,
+      "title": "Internship"
+    },
+    {
+      "subject": "PACS",
+      "catalog_number": "626",
+      "units": 0.25,
+      "title": "Conflict Resolution Skills Training"
+    },
+    {
+      "subject": "PD",
+      "catalog_number": "1",
+      "units": 0.5,
+      "title": "Co-op Fundamentals"
+    },
+    {
+      "subject": "PD",
+      "catalog_number": "10",
+      "units": 0.5,
+      "title": "Professional Responsibility in Computing"
+    },
+    {
+      "subject": "PD",
+      "catalog_number": "2",
+      "units": 0.5,
+      "title": "Critical Reflection and Report Writing"
+    },
+    {
+      "subject": "PD",
+      "catalog_number": "20",
+      "units": 0.5,
+      "title": "Engineering Workplace Skills I: Developing Reasoned Conclusions"
+    },
+    {
+      "subject": "PD",
+      "catalog_number": "21",
+      "units": 0.5,
+      "title": "Engineering Workplace Skills II: Developing Effective Plans"
+    },
+    {
+      "subject": "PD",
+      "catalog_number": "22",
+      "units": 0.5,
+      "title": "Professionalism and Ethics in Engineering Practice"
+    },
+    {
+      "subject": "PD",
+      "catalog_number": "3",
+      "units": 0.5,
+      "title": "Communication"
+    },
+    {
+      "subject": "PD",
+      "catalog_number": "4",
+      "units": 0.5,
+      "title": "Teamwork"
+    },
+    {
+      "subject": "PD",
+      "catalog_number": "7",
+      "units": 0.5,
+      "title": "Conflict Resolution"
+    },
+    {
+      "subject": "PD",
+      "catalog_number": "8",
+      "units": 0.5,
+      "title": "Intercultural Skills"
+    },
+    {
+      "subject": "PDARCH",
+      "catalog_number": "1",
+      "units": 0.5,
+      "title": "Portfolio Development"
+    },
+    {
+      "subject": "PDPHRM",
+      "catalog_number": "2",
+      "units": 0.5,
+      "title": "Communication for Pharmacy"
+    },
+    {
+      "subject": "PDPHRM",
+      "catalog_number": "3",
+      "units": 0.5,
+      "title": "Drug Distribution for Pharmacy"
+    },
+    {
+      "subject": "PDPHRM",
+      "catalog_number": "4",
+      "units": 0.5,
+      "title": "Patient Safety for Pharmacy"
+    },
+    {
+      "subject": "PDPHRM",
+      "catalog_number": "5",
+      "units": 0.5,
+      "title": "Patient Care for Pharmacy"
+    },
+    {
+      "subject": "PDPHRM",
+      "catalog_number": "6",
+      "units": 0.5,
+      "title": "Drug Information for Pharmacy"
+    },
+    {
+      "subject": "PDPHRM",
+      "catalog_number": "7",
+      "units": 0.5,
+      "title": "Interprofessional Relations"
+    },
+    {
+      "subject": "PDPHRM",
+      "catalog_number": "8",
+      "units": 0.5,
+      "title": "Pharmacy Practice - Management and Leadership"
+    },
+    {
+      "subject": "PHARM",
+      "catalog_number": "111",
+      "units": 0.5,
+      "title": "Systems Approach to the Study of the Human Body 2"
+    },
+    {
+      "subject": "PHARM",
+      "catalog_number": "125",
+      "units": 1,
+      "title": "Pharmaceutics 2"
+    },
+    {
+      "subject": "PHARM",
+      "catalog_number": "130",
+      "units": 0.5,
+      "title": "Professional Practice 2"
+    },
+    {
+      "subject": "PHARM",
+      "catalog_number": "141",
+      "units": 0.5,
+      "title": "Introduction to Medicinal Chemistry, Toxicology and Pharmacology"
+    },
+    {
+      "subject": "PHARM",
+      "catalog_number": "151",
+      "units": 0.5,
+      "title": "Foundation and Application of Health Informatics"
+    },
+    {
+      "subject": "PHARM",
+      "catalog_number": "155",
+      "units": 0.25,
+      "title": "Introduction to Drug Information Fundamentals"
+    },
+    {
+      "subject": "PHARM",
+      "catalog_number": "222",
+      "units": 1,
+      "title": "Integrated Patient Focused Care 3"
+    },
+    {
+      "subject": "PHARM",
+      "catalog_number": "223",
+      "units": 1,
+      "title": "Integrated Patient Focused Care 4"
+    },
+    {
+      "subject": "PHARM",
+      "catalog_number": "229",
+      "units": 1,
+      "title": "Professional Practice 4"
+    },
+    {
+      "subject": "PHARM",
+      "catalog_number": "252",
+      "units": 0.5,
+      "title": "Institutional Pharmacy Practice"
+    },
+    {
+      "subject": "PHARM",
+      "catalog_number": "290",
+      "units": 0.13,
+      "title": "Seminars in Pharmacy 1"
+    },
+    {
+      "subject": "PHARM",
+      "catalog_number": "362",
+      "units": 0.5,
+      "title": "Advanced Patient Self Care"
+    },
+    {
+      "subject": "PHARM",
+      "catalog_number": "377",
+      "units": 0.5,
+      "title": "Drug-Induced Disease"
+    },
+    {
+      "subject": "PHARM",
+      "catalog_number": "400",
+      "units": 0.25,
+      "title": "Independent Study 1"
+    },
+    {
+      "subject": "PHARM",
+      "catalog_number": "401",
+      "units": 0.5,
+      "title": "Independent Study 2"
+    },
+    {
+      "subject": "PHARM",
+      "catalog_number": "422",
+      "units": 1,
+      "title": "Integrated Patient Focused Care 9"
+    },
+    {
+      "subject": "PHARM",
+      "catalog_number": "425",
+      "units": 0.5,
+      "title": "Symposium"
+    },
+    {
+      "subject": "PHARM",
+      "catalog_number": "430",
+      "units": 2.5,
+      "title": "Clinical Rotation 1: Primary Care"
+    },
+    {
+      "subject": "PHARM",
+      "catalog_number": "440",
+      "units": 2.5,
+      "title": "Clinical Rotation 2: Institutional"
+    },
+    {
+      "subject": "PHARM",
+      "catalog_number": "450",
+      "units": 2.5,
+      "title": "Clinical Rotation 3: Elective"
+    },
+    {
+      "subject": "PHARM",
+      "catalog_number": "466",
+      "units": 0.5,
+      "title": "Advanced Geriatric Care"
+    },
+    {
+      "subject": "PHARM",
+      "catalog_number": "491",
+      "units": 0.13,
+      "title": "Seminars in Pharmacy 3"
+    },
+    {
+      "subject": "PHARM",
+      "catalog_number": "495",
+      "units": 0.5,
+      "title": "Advanced Topics in Patient Focused Care"
+    },
+    {
+      "subject": "PHARM",
+      "catalog_number": "496",
+      "units": 0.5,
+      "title": "Advanced Professional Practice"
+    },
+    {
+      "subject": "PHARM",
+      "catalog_number": "497",
+      "units": 2.5,
+      "title": "Clinical Rotation 1: Direct Patient Care Fundamentals"
+    },
+    {
+      "subject": "PHARM",
+      "catalog_number": "498",
+      "units": 2.5,
+      "title": "Clinical Rotation 2: Direct Patient Care"
+    },
+    {
+      "subject": "PHARM",
+      "catalog_number": "499",
+      "units": 2.5,
+      "title": "Clinical Rotation 3: Elective"
+    },
+    {
+      "subject": "PHARM",
+      "catalog_number": "601",
+      "units": 0.5,
+      "title": "MSc Thesis Proposal"
+    },
+    {
+      "subject": "PHARM",
+      "catalog_number": "608A",
+      "units": 0.5,
+      "title": "Selected Topics in Pharmaceutical Sciences 1"
+    },
+    {
+      "subject": "PHARM",
+      "catalog_number": "615",
+      "units": 0.5,
+      "title": "Strategic Management of Biopharmaceutical Technology"
+    },
+    {
+      "subject": "PHARM",
+      "catalog_number": "616",
+      "units": 0.5,
+      "title": "PhD Thesis Proposal"
+    },
+    {
+      "subject": "PHIL",
+      "catalog_number": "110A",
+      "units": 0.5,
+      "title": "Introduction to Philosophy: Knowledge and Reality"
+    },
+    {
+      "subject": "PHIL",
+      "catalog_number": "110B",
+      "units": 0.5,
+      "title": "Introduction to Philosophy: Ethics and Values"
+    },
+    {
+      "subject": "PHIL",
+      "catalog_number": "145",
+      "units": 0.5,
+      "title": "Critical Thinking"
+    },
+    {
+      "subject": "PHIL",
+      "catalog_number": "201",
+      "units": 0.5,
+      "title": "Philosophy of Sex and Love"
+    },
+    {
+      "subject": "PHIL",
+      "catalog_number": "202",
+      "units": 0.5,
+      "title": "Gender Issues"
+    },
+    {
+      "subject": "PHIL",
+      "catalog_number": "215",
+      "units": 0.5,
+      "title": "Professional and Business Ethics"
+    },
+    {
+      "subject": "PHIL",
+      "catalog_number": "220",
+      "units": 0.5,
+      "title": "Moral Issues"
+    },
+    {
+      "subject": "PHIL",
+      "catalog_number": "250A",
+      "units": 0.5,
+      "title": "Great Works: Ancient and Medieval"
+    },
+    {
+      "subject": "PHIL",
+      "catalog_number": "256",
+      "units": 0.5,
+      "title": "Introduction to Cognitive Science"
+    },
+    {
+      "subject": "PHIL",
+      "catalog_number": "271",
+      "units": 0.5,
+      "title": "Special Topics"
+    },
+    {
+      "subject": "PHIL",
+      "catalog_number": "324",
+      "units": 0.5,
+      "title": "Social and Political Philosophy"
+    },
+    {
+      "subject": "PHIL",
+      "catalog_number": "327",
+      "units": 0.5,
+      "title": "Philosophy of Law"
+    },
+    {
+      "subject": "PHIL",
+      "catalog_number": "384",
+      "units": 0.5,
+      "title": "History of Modern Philosophy"
+    },
+    {
+      "subject": "PHIL",
+      "catalog_number": "498",
+      "units": 0.5,
+      "title": "Directed Reading in Special Areas"
+    },
+    {
+      "subject": "PHIL",
+      "catalog_number": "672",
+      "units": 0.5,
+      "title": "Spring Term Reading Course"
+    },
+    {
+      "subject": "PHIL",
+      "catalog_number": "696",
+      "units": 0.5,
+      "title": "Directed Research for MA Candidates"
+    },
+    {
+      "subject": "PHIL",
+      "catalog_number": "698",
+      "units": 1,
+      "title": "Research Area Tutorials for PhD"
+    },
+    {
+      "subject": "PHS",
+      "catalog_number": "602",
+      "units": 0.5,
+      "title": "Capstone Integrative Seminar for Public Health"
+    },
+    {
+      "subject": "PHS",
+      "catalog_number": "603",
+      "units": 0.5,
+      "title": "Health Policy in Public Health"
+    },
+    {
+      "subject": "PHS",
+      "catalog_number": "617",
+      "units": 0.5,
+      "title": "Population Intervention for Disease Prevention and Health Promotion"
+    },
+    {
+      "subject": "PHS",
+      "catalog_number": "631",
+      "units": 0.5,
+      "title": "Public Health Surveillance"
+    },
+    {
+      "subject": "PHS",
+      "catalog_number": "634",
+      "units": 0.5,
+      "title": "Environmental Epidemiology for Public Health"
+    },
+    {
+      "subject": "PHS",
+      "catalog_number": "638",
+      "units": 0.5,
+      "title": "Selected Topics in Public Health"
+    },
+    {
+      "subject": "PHS",
+      "catalog_number": "641",
+      "units": 1.5,
+      "title": "Professional Experience Practicum"
+    },
+    {
+      "subject": "PHS",
+      "catalog_number": "653",
+      "units": 0.5,
+      "title": "Evaluation Practice and Management"
+    },
+    {
+      "subject": "PHS",
+      "catalog_number": "663",
+      "units": 0.5,
+      "title": "Human Development  and Health"
+    },
+    {
+      "subject": "PHYS",
+      "catalog_number": "112",
+      "units": 0.5,
+      "title": "Physics 2"
+    },
+    {
+      "subject": "PHYS",
+      "catalog_number": "112L",
+      "units": 0.25,
+      "title": "Physics 2 Laboratory"
+    },
+    {
+      "subject": "PHYS",
+      "catalog_number": "122",
+      "units": 0.5,
+      "title": "Waves, Electricity and Magnetism"
+    },
+    {
+      "subject": "PHYS",
+      "catalog_number": "233",
+      "units": 0.5,
+      "title": "Introduction to Quantum Mechanics"
+    },
+    {
+      "subject": "PHYS",
+      "catalog_number": "234",
+      "units": 0.5,
+      "title": "Quantum Physics 1"
+    },
+    {
+      "subject": "PHYS",
+      "catalog_number": "239",
+      "units": 0.5,
+      "title": "Computational Physics 2"
+    },
+    {
+      "subject": "PHYS",
+      "catalog_number": "242",
+      "units": 0.5,
+      "title": "Electricity and Magnetism 1"
+    },
+    {
+      "subject": "PHYS",
+      "catalog_number": "242L",
+      "units": 0.25,
+      "title": "Electricity and Magnetism Laboratory"
+    },
+    {
+      "subject": "PHYS",
+      "catalog_number": "260L",
+      "units": 0.25,
+      "title": "Intermediate Physics Laboratory"
+    },
+    {
+      "subject": "PHYS",
+      "catalog_number": "263",
+      "units": 0.5,
+      "title": "Classical Mechanics and Special Relativity"
+    },
+    {
+      "subject": "PHYS",
+      "catalog_number": "270",
+      "units": 0.5,
+      "title": "Astronomical Observations, Instrumentation and Data Analysis"
+    },
+    {
+      "subject": "PHYS",
+      "catalog_number": "270L",
+      "units": 0.25,
+      "title": "Astronomical Observations, Instrumentation and Data Analysis Laboratory"
+    },
+    {
+      "subject": "PHYS",
+      "catalog_number": "280",
+      "units": 0.5,
+      "title": "Introduction to Biophysics"
+    },
+    {
+      "subject": "PHYS",
+      "catalog_number": "342",
+      "units": 0.5,
+      "title": "Electricity and Magnetism 2"
+    },
+    {
+      "subject": "PHYS",
+      "catalog_number": "358",
+      "units": 0.5,
+      "title": "Thermal Physics"
+    },
+    {
+      "subject": "PHYS",
+      "catalog_number": "360A",
+      "units": 0.25,
+      "title": "Modern Physics Laboratory 1"
+    },
+    {
+      "subject": "PHYS",
+      "catalog_number": "360B",
+      "units": 0.25,
+      "title": "Modern Physics Laboratory 2"
+    },
+    {
+      "subject": "PHYS",
+      "catalog_number": "363",
+      "units": 0.5,
+      "title": "Intermediate Classical Mechanics"
+    },
+    {
+      "subject": "PHYS",
+      "catalog_number": "364",
+      "units": 0.5,
+      "title": "Mathematical Physics 1"
+    },
+    {
+      "subject": "PHYS",
+      "catalog_number": "380",
+      "units": 0.5,
+      "title": "Molecular and Cellular Biophysics"
+    },
+    {
+      "subject": "PHYS",
+      "catalog_number": "460A",
+      "units": 0.25,
+      "title": "Advanced Laboratory 1"
+    },
+    {
+      "subject": "PHYS",
+      "catalog_number": "460B",
+      "units": 0.25,
+      "title": "Advanced Laboratory 2"
+    },
+    {
+      "subject": "PHYS",
+      "catalog_number": "621",
+      "units": 0.25,
+      "title": "Perimeter Scholars International Cosmology"
+    },
+    {
+      "subject": "PHYS",
+      "catalog_number": "622",
+      "units": 0.25,
+      "title": "Perimeter Scholars International Standard Model"
+    },
+    {
+      "subject": "PHYS",
+      "catalog_number": "623",
+      "units": 0.25,
+      "title": "Perimeter Scholars International String Theory"
+    },
+    {
+      "subject": "PHYS",
+      "catalog_number": "635",
+      "units": 0.25,
+      "title": "Perimeter Scholars International Quantum Information Review"
+    },
+    {
+      "subject": "PHYS",
+      "catalog_number": "636",
+      "units": 0.25,
+      "title": "Perimeter Scholars International Gravitational Physics Review"
+    },
+    {
+      "subject": "PHYS",
+      "catalog_number": "637",
+      "units": 0.25,
+      "title": "Perimeter Scholars International Condensed Matter Theory"
+    },
+    {
+      "subject": "PHYS",
+      "catalog_number": "638",
+      "units": 0.25,
+      "title": "Perimeter Scholars International Quantum Gravity"
+    },
+    {
+      "subject": "PHYS",
+      "catalog_number": "639",
+      "units": 0.25,
+      "title": "Perimeter Scholars International Foundations of Quantum Theory"
+    },
+    {
+      "subject": "PHYS",
+      "catalog_number": "641",
+      "units": 0.25,
+      "title": "Perimeter Scholars International Explorations in Quantum Information"
+    },
+    {
+      "subject": "PHYS",
+      "catalog_number": "643",
+      "units": 0.25,
+      "title": "Perimeter Scholars International Explorations in Condensed Matter Theory"
+    },
+    {
+      "subject": "PHYS",
+      "catalog_number": "646",
+      "units": 0.25,
+      "title": "Perimeter Scholars International Explorations in Particle Physics"
+    },
+    {
+      "subject": "PHYS",
+      "catalog_number": "647",
+      "units": 0.25,
+      "title": "Perimeter Scholars International Explorations in String Theory"
+    },
+    {
+      "subject": "PHYS",
+      "catalog_number": "649",
+      "units": 0.25,
+      "title": "Perimeter Scholars International Explorations in Cosmology"
+    },
+    {
+      "subject": "PHYS",
+      "catalog_number": "777",
+      "units": 0.25,
+      "title": "Special Topics in Physics"
+    },
+    {
+      "subject": "PLAN",
+      "catalog_number": "313",
+      "units": 1,
+      "title": "Community Design Studio"
+    },
+    {
+      "subject": "PLAN",
+      "catalog_number": "346",
+      "units": 0.5,
+      "title": "Advanced Tools for Planning: Public Participation and Mediation"
+    },
+    {
+      "subject": "PLAN",
+      "catalog_number": "349",
+      "units": 0.5,
+      "title": "Urban Form and Internal Spatial Structure"
+    },
+    {
+      "subject": "PLAN",
+      "catalog_number": "350",
+      "units": 0.5,
+      "title": "Research Methods for Planners"
+    },
+    {
+      "subject": "PLAN",
+      "catalog_number": "381",
+      "units": 0.5,
+      "title": "Advanced Geographic Information Systems"
+    },
+    {
+      "subject": "PLAN",
+      "catalog_number": "408",
+      "units": 0.5,
+      "title": "Urban Design Seminar"
+    },
+    {
+      "subject": "PLAN",
+      "catalog_number": "414",
+      "units": 0.5,
+      "title": "Heritage Planning Workshop"
+    },
+    {
+      "subject": "PLAN",
+      "catalog_number": "451",
+      "units": 0.5,
+      "title": "Tools for Sustainable Communities"
+    },
+    {
+      "subject": "PLAN",
+      "catalog_number": "474",
+      "units": 0.5,
+      "title": "Special Topics in Planning"
+    },
+    {
+      "subject": "PLAN",
+      "catalog_number": "481",
+      "units": 1,
+      "title": "Geographic Information Systems Project"
+    },
+    {
+      "subject": "PLAN",
+      "catalog_number": "484",
+      "units": 0.5,
+      "title": "Physical Infrastructure Planning"
+    },
+    {
+      "subject": "PLAN",
+      "catalog_number": "485",
+      "units": 0.5,
+      "title": "Projects, Problems, and Readings in Planning"
+    },
+    {
+      "subject": "PLAN",
+      "catalog_number": "490",
+      "units": 1,
+      "title": "Senior Honours Essay"
+    },
+    {
+      "subject": "PLAN",
+      "catalog_number": "641",
+      "units": 0.5,
+      "title": "Heritage Planning Workshop"
+    },
+    {
+      "subject": "PLAN",
+      "catalog_number": "647",
+      "units": 0.5,
+      "title": "Community Design Studio"
+    },
+    {
+      "subject": "PLAN",
+      "catalog_number": "648",
+      "units": 0.5,
+      "title": "Urban Design Philosophy and Methodology"
+    },
+    {
+      "subject": "PLAN",
+      "catalog_number": "675",
+      "units": 0.5,
+      "title": "Special Readings on Selected Planning Topics"
+    },
+    {
+      "subject": "PLAN",
+      "catalog_number": "702",
+      "units": 1,
+      "title": "Critical Assessment of Theories, Methods and Practices of Planning"
+    },
+    {
+      "subject": "PMATH",
+      "catalog_number": "330",
+      "units": 0.5,
+      "title": "Introduction to Mathematical Logic"
+    },
+    {
+      "subject": "PMATH",
+      "catalog_number": "332",
+      "units": 0.5,
+      "title": "Applied Complex Analysis"
+    },
+    {
+      "subject": "PMATH",
+      "catalog_number": "336",
+      "units": 0.5,
+      "title": "Introduction to Group Theory with Applications"
+    },
+    {
+      "subject": "PMATH",
+      "catalog_number": "347",
+      "units": 0.5,
+      "title": "Groups and Rings"
+    },
+    {
+      "subject": "PMATH",
+      "catalog_number": "351",
+      "units": 0.5,
+      "title": "Real Analysis"
+    },
+    {
+      "subject": "PMATH",
+      "catalog_number": "352",
+      "units": 0.5,
+      "title": "Complex Analysis"
+    },
+    {
+      "subject": "PMATH",
+      "catalog_number": "360",
+      "units": 0.5,
+      "title": "Geometry"
+    },
+    {
+      "subject": "PMATH",
+      "catalog_number": "441",
+      "units": 0.5,
+      "title": "Algebraic Number Theory"
+    },
+    {
+      "subject": "PMATH",
+      "catalog_number": "450",
+      "units": 0.5,
+      "title": "Lebesgue Integration and Fourier Analysis"
+    },
+    {
+      "subject": "PMATH",
+      "catalog_number": "641",
+      "units": 0.5,
+      "title": "Algebraic Number Theory"
+    },
+    {
+      "subject": "PMATH",
+      "catalog_number": "650",
+      "units": 0.5,
+      "title": "Lebesgue Integration and Fourier Analysis"
+    },
+    {
+      "subject": "PS",
+      "catalog_number": "622",
+      "units": 1,
+      "title": "Major Team Project"
+    },
+    {
+      "subject": "PSCI",
+      "catalog_number": "210W",
+      "units": 0.5,
+      "title": "Introduction to Law"
+    },
+    {
+      "subject": "PSCI",
+      "catalog_number": "231",
+      "units": 0.5,
+      "title": "Government and Business"
+    },
+    {
+      "subject": "PSCI",
+      "catalog_number": "257",
+      "units": 0.5,
+      "title": "Introduction to the Modern Middle East"
+    },
+    {
+      "subject": "PSCI",
+      "catalog_number": "280W",
+      "units": 0.5,
+      "title": "Big Debates in Mod Pol Thought"
+    },
+    {
+      "subject": "PSCI",
+      "catalog_number": "283",
+      "units": 0.5,
+      "title": "International Political Economy"
+    },
+    {
+      "subject": "PSCI",
+      "catalog_number": "334",
+      "units": 0.5,
+      "title": "Public Policy"
+    },
+    {
+      "subject": "PSCI",
+      "catalog_number": "387",
+      "units": 0.5,
+      "title": "Globalization"
+    },
+    {
+      "subject": "PSCI",
+      "catalog_number": "481",
+      "units": 0.5,
+      "title": "Interstate War"
+    },
+    {
+      "subject": "PSCI",
+      "catalog_number": "490",
+      "units": 0.5,
+      "title": "Special Subjects"
+    },
+    {
+      "subject": "PSCI",
+      "catalog_number": "683",
+      "units": 0.5,
+      "title": "Topics in International Political Economy"
+    },
+    {
+      "subject": "PSYCH",
+      "catalog_number": "101",
+      "units": 0.5,
+      "title": "Introductory Psychology"
+    },
+    {
+      "subject": "PSYCH",
+      "catalog_number": "207",
+      "units": 0.5,
+      "title": "Cognitive Processes"
+    },
+    {
+      "subject": "PSYCH",
+      "catalog_number": "211",
+      "units": 0.5,
+      "title": "Developmental Psychology"
+    },
+    {
+      "subject": "PSYCH",
+      "catalog_number": "212",
+      "units": 0.5,
+      "title": "Educational Psychology"
+    },
+    {
+      "subject": "PSYCH",
+      "catalog_number": "213R",
+      "units": 0.5,
+      "title": "Exceptional Children"
+    },
+    {
+      "subject": "PSYCH",
+      "catalog_number": "256",
+      "units": 0.5,
+      "title": "Introduction to Cognitive Science"
+    },
+    {
+      "subject": "PSYCH",
+      "catalog_number": "257",
+      "units": 0.5,
+      "title": "Psychopathology"
+    },
+    {
+      "subject": "PSYCH",
+      "catalog_number": "261",
+      "units": 0.5,
+      "title": "Physiological Psychology"
+    },
+    {
+      "subject": "PSYCH",
+      "catalog_number": "264",
+      "units": 0.5,
+      "title": "Research Apprenticeship"
+    },
+    {
+      "subject": "PSYCH",
+      "catalog_number": "306",
+      "units": 0.5,
+      "title": "Perception"
+    },
+    {
+      "subject": "PSYCH",
+      "catalog_number": "312",
+      "units": 0.5,
+      "title": "Learning Disabilities"
+    },
+    {
+      "subject": "PSYCH",
+      "catalog_number": "334R",
+      "units": 0.5,
+      "title": "Theories of Individual Counselling Psychology"
+    },
+    {
+      "subject": "PSYCH",
+      "catalog_number": "339",
+      "units": 0.5,
+      "title": "Personnel Psychology"
+    },
+    {
+      "subject": "PSYCH",
+      "catalog_number": "353",
+      "units": 0.5,
+      "title": "Social Cognition"
+    },
+    {
+      "subject": "PSYCH",
+      "catalog_number": "354R",
+      "units": 0.5,
+      "title": "Interpersonal Relations"
+    },
+    {
+      "subject": "PSYCH",
+      "catalog_number": "392",
+      "units": 0.5,
+      "title": "Research in Human Cognitive Neuroscience"
+    },
+    {
+      "subject": "PSYCH",
+      "catalog_number": "394",
+      "units": 0.5,
+      "title": "Research in Cognition and Perception"
+    },
+    {
+      "subject": "PSYCH",
+      "catalog_number": "398R",
+      "units": 0.5,
+      "title": "Independent Study"
+    },
+    {
+      "subject": "PSYCH",
+      "catalog_number": "399R",
+      "units": 0.5,
+      "title": "Independent Study"
+    },
+    {
+      "subject": "PSYCH",
+      "catalog_number": "455",
+      "units": 0.5,
+      "title": "Honours Seminar in Social Psychology"
+    },
+    {
+      "subject": "PSYCH",
+      "catalog_number": "464",
+      "units": 0.5,
+      "title": "Advanced Research Apprenticeship"
+    },
+    {
+      "subject": "PSYCH",
+      "catalog_number": "480",
+      "units": 0.5,
+      "title": "Directed Studies - Elective"
+    },
+    {
+      "subject": "PSYCH",
+      "catalog_number": "481",
+      "units": 0.5,
+      "title": "Directed Studies - Natural Science Advanced Psych"
+    },
+    {
+      "subject": "PSYCH",
+      "catalog_number": "482",
+      "units": 0.5,
+      "title": "Directed Studies - Social Science Advanced Psych"
+    },
+    {
+      "subject": "PSYCH",
+      "catalog_number": "483",
+      "units": 0.5,
+      "title": "Directed Studies - Natural Science Research"
+    },
+    {
+      "subject": "PSYCH",
+      "catalog_number": "484",
+      "units": 0.5,
+      "title": "Directed Studies - Social Science Research"
+    },
+    {
+      "subject": "PSYCH",
+      "catalog_number": "485",
+      "units": 0.5,
+      "title": "Directed Studies - Seminar"
+    },
+    {
+      "subject": "PSYCH",
+      "catalog_number": "486",
+      "units": 0.5,
+      "title": "Directed Studies - Advanced Statistics"
+    },
+    {
+      "subject": "PSYCH",
+      "catalog_number": "490R",
+      "units": 0.5,
+      "title": "Special Studies"
+    },
+    {
+      "subject": "PSYCH",
+      "catalog_number": "499A",
+      "units": 0.5,
+      "title": "Honours Thesis - Part 1"
+    },
+    {
+      "subject": "PSYCH",
+      "catalog_number": "499B",
+      "units": 0.5,
+      "title": "Honours Thesis - Part 2"
+    },
+    {
+      "subject": "PSYCH",
+      "catalog_number": "499C",
+      "units": 0.5,
+      "title": "Honours Thesis - Part 3"
+    },
+    {
+      "subject": "PSYCH",
+      "catalog_number": "690",
+      "units": 0.5,
+      "title": "Special Topics in Social and Personality"
+    },
+    {
+      "subject": "PSYCH",
+      "catalog_number": "722C",
+      "units": 0.5,
+      "title": "Clinical Fieldwork Placement I"
+    },
+    {
+      "subject": "PSYCH",
+      "catalog_number": "729C",
+      "units": 0.5,
+      "title": "Child and Adolescent Psychotherapy Practicum III"
+    },
+    {
+      "subject": "PSYCH",
+      "catalog_number": "730C",
+      "units": 0.5,
+      "title": "Adult Psychotherapy Practicum III"
+    },
+    {
+      "subject": "PSYCH",
+      "catalog_number": "732C",
+      "units": 0.5,
+      "title": "Child and Adolescent Psychotherapy Practicum III"
+    },
+    {
+      "subject": "PSYCH",
+      "catalog_number": "733C",
+      "units": 0.5,
+      "title": "Adult Psychotherapy Practicum III"
+    },
+    {
+      "subject": "PSYCH",
+      "catalog_number": "735C",
+      "units": 0.5,
+      "title": "Child and Adolescent Psychotherapy Practicum III"
+    },
+    {
+      "subject": "PSYCH",
+      "catalog_number": "736C",
+      "units": 0.5,
+      "title": "Adult Psychotherapy Practicum III"
+    },
+    {
+      "subject": "PSYCH",
+      "catalog_number": "794",
+      "units": 0.5,
+      "title": "Cognitive Neuroscience of Face Perception"
+    },
+    {
+      "subject": "PSYCH",
+      "catalog_number": "803",
+      "units": 0.5,
+      "title": "Statistical Reasoning & Advanced Experimental Analysis"
+    },
+    {
+      "subject": "PSYCH",
+      "catalog_number": "822",
+      "units": 0.5,
+      "title": "Community Practicum III"
+    },
+    {
+      "subject": "PSYCH",
+      "catalog_number": "824",
+      "units": 0.5,
+      "title": "Research Apprenticeship II"
+    },
+    {
+      "subject": "QIC",
+      "catalog_number": "890",
+      "units": 0.5,
+      "title": "Topics in Quantum Information"
+    },
+    {
+      "subject": "QIC",
+      "catalog_number": "891",
+      "units": 0.25,
+      "title": "Topics in Quantum Information"
+    },
+    {
+      "subject": "QIC",
+      "catalog_number": "895",
+      "units": 0.5,
+      "title": "Topics in Quantum Information"
+    },
+    {
+      "subject": "REC",
+      "catalog_number": "100",
+      "units": 0.5,
+      "title": "Introduction to the Study of Recreation and Leisure"
+    },
+    {
+      "subject": "REC",
+      "catalog_number": "203",
+      "units": 0.5,
+      "title": "Sociology of Sport"
+    },
+    {
+      "subject": "REC",
+      "catalog_number": "205",
+      "units": 0.5,
+      "title": "Social Psychology of Leisure"
+    },
+    {
+      "subject": "REC",
+      "catalog_number": "251",
+      "units": 0.5,
+      "title": "Therapeutic Recreation: Developmental and Emotional Disabilities"
+    },
+    {
+      "subject": "REC",
+      "catalog_number": "253",
+      "units": 0.5,
+      "title": "Practicum in Therapeutic Recreation"
+    },
+    {
+      "subject": "REC",
+      "catalog_number": "280",
+      "units": 0.5,
+      "title": "Introduction to Tourism"
+    },
+    {
+      "subject": "REC",
+      "catalog_number": "312",
+      "units": 0.5,
+      "title": "Practicum in Recreation, Sport, and Tourism"
+    },
+    {
+      "subject": "REC",
+      "catalog_number": "314",
+      "units": 0.5,
+      "title": "Quality Assurance in Recreation and Sport Services"
+    },
+    {
+      "subject": "REC",
+      "catalog_number": "375",
+      "units": 2.5,
+      "title": "International Exchange"
+    },
+    {
+      "subject": "REC",
+      "catalog_number": "405",
+      "units": 0.5,
+      "title": "Leisure and Well-Being"
+    },
+    {
+      "subject": "REC",
+      "catalog_number": "408",
+      "units": 0.5,
+      "title": "Gender and Leisure"
+    },
+    {
+      "subject": "REC",
+      "catalog_number": "425",
+      "units": 0.5,
+      "title": "Heritage Planning Workshop"
+    },
+    {
+      "subject": "REC",
+      "catalog_number": "450A",
+      "units": 0.5,
+      "title": "Internship for Therapeutic Recreation"
+    },
+    {
+      "subject": "REC",
+      "catalog_number": "450B",
+      "units": 0.5,
+      "title": "Internship for Therapeutic Recreation"
+    },
+    {
+      "subject": "REC",
+      "catalog_number": "471A",
+      "units": 0.5,
+      "title": "Honours Thesis"
+    },
+    {
+      "subject": "REC",
+      "catalog_number": "471B",
+      "units": 0.5,
+      "title": "Honours Thesis"
+    },
+    {
+      "subject": "REC",
+      "catalog_number": "475",
+      "units": 0.5,
+      "title": "Directed Study in Special Topics"
+    },
+    {
+      "subject": "REC",
+      "catalog_number": "609",
+      "units": 0.5,
+      "title": "Internship in Recreation Service"
+    },
+    {
+      "subject": "REC",
+      "catalog_number": "695",
+      "units": 0.5,
+      "title": "Selected Topics in Leisure Behaviour and Cultural Studies"
+    },
+    {
+      "subject": "REC",
+      "catalog_number": "696",
+      "units": 0.5,
+      "title": "Topics in Administration and Management for Services"
+    },
+    {
+      "subject": "REC",
+      "catalog_number": "697",
+      "units": 0.5,
+      "title": "Selected Topics in Recreation and Leisure Resources"
+    },
+    {
+      "subject": "REC",
+      "catalog_number": "792",
+      "units": 0.5,
+      "title": "Advanced Research Methods"
+    },
+    {
+      "subject": "REC",
+      "catalog_number": "798",
+      "units": 0.5,
+      "title": "Advanced Topics in Leisure Studies"
+    },
+    {
+      "subject": "REES",
+      "catalog_number": "495",
+      "units": 0.5,
+      "title": "Reading Course in Approved Topics"
+    },
+    {
+      "subject": "RS",
+      "catalog_number": "100",
+      "units": 0.5,
+      "title": "Religions of the East"
+    },
+    {
+      "subject": "RS",
+      "catalog_number": "121",
+      "units": 0.5,
+      "title": "Evil"
+    },
+    {
+      "subject": "RS",
+      "catalog_number": "170",
+      "units": 0.5,
+      "title": "Religion and Popular Culture"
+    },
+    {
+      "subject": "RS",
+      "catalog_number": "204",
+      "units": 0.5,
+      "title": "Buddhism"
+    },
+    {
+      "subject": "RS",
+      "catalog_number": "236",
+      "units": 0.5,
+      "title": "Paul: Life and Letters"
+    },
+    {
+      "subject": "RS",
+      "catalog_number": "270R",
+      "units": 0.5,
+      "title": "Religion in Popular Film"
+    },
+    {
+      "subject": "RS",
+      "catalog_number": "272",
+      "units": 0.5,
+      "title": "The Holocaust and Film"
+    },
+    {
+      "subject": "RS",
+      "catalog_number": "383",
+      "units": 0.5,
+      "title": "Justice, Peace, and Development"
+    },
+    {
+      "subject": "RS",
+      "catalog_number": "398",
+      "units": 0.5,
+      "title": "Directed Readings in Special Subjects"
+    },
+    {
+      "subject": "SCI",
+      "catalog_number": "238",
+      "units": 0.5,
+      "title": "Introductory Astronomy"
+    },
+    {
+      "subject": "SCI",
+      "catalog_number": "255",
+      "units": 0.5,
+      "title": "The Biology of Aging"
+    },
+    {
+      "subject": "SCI",
+      "catalog_number": "397",
+      "units": 2.5,
+      "title": "Science Study Abroad Program"
+    },
+    {
+      "subject": "SDS",
+      "catalog_number": "131R",
+      "units": 0.5,
+      "title": "Social Ideas, Social Policy and Political Practice"
+    },
+    {
+      "subject": "SDS",
+      "catalog_number": "150R",
+      "units": 0.5,
+      "title": "Lifespan Processes: The Normal Events"
+    },
+    {
+      "subject": "SDS",
+      "catalog_number": "210R",
+      "units": 0.5,
+      "title": "Children's Rights in Canada"
+    },
+    {
+      "subject": "SDS",
+      "catalog_number": "220R",
+      "units": 0.5,
+      "title": "Changing Concepts of Childhood"
+    },
+    {
+      "subject": "SDS",
+      "catalog_number": "251R",
+      "units": 0.5,
+      "title": "Social Research"
+    },
+    {
+      "subject": "SDS",
+      "catalog_number": "350R",
+      "units": 0.5,
+      "title": "Adult Life Crises and Events"
+    },
+    {
+      "subject": "SDS",
+      "catalog_number": "375R",
+      "units": 0.5,
+      "title": "Studies in Interdisciplinary Social Science"
+    },
+    {
+      "subject": "SDS",
+      "catalog_number": "398R",
+      "units": 0.5,
+      "title": "Independent Study"
+    },
+    {
+      "subject": "SDS",
+      "catalog_number": "399R",
+      "units": 0.5,
+      "title": "Independent Study"
+    },
+    {
+      "subject": "SDS",
+      "catalog_number": "405R",
+      "units": 0.5,
+      "title": "Cosmopolitanism and Social Development"
+    },
+    {
+      "subject": "SDS",
+      "catalog_number": "450R",
+      "units": 0.5,
+      "title": "Honours Seminar in Special Topics"
+    },
+    {
+      "subject": "SDS",
+      "catalog_number": "490R",
+      "units": 0.5,
+      "title": "Special Studies"
+    },
+    {
+      "subject": "SDS",
+      "catalog_number": "495R",
+      "units": 0.5,
+      "title": "Research Apprenticeship"
+    },
+    {
+      "subject": "SDS",
+      "catalog_number": "499A",
+      "units": 0.5,
+      "title": "Senior Honours Essay/Thesis"
+    },
+    {
+      "subject": "SDS",
+      "catalog_number": "499B",
+      "units": 0.5,
+      "title": "Senior Honours Essay/Thesis"
+    },
+    {
+      "subject": "SE",
+      "catalog_number": "202",
+      "units": 0,
+      "title": "Seminar"
+    },
+    {
+      "subject": "SE",
+      "catalog_number": "401",
+      "units": 0,
+      "title": "Seminar"
+    },
+    {
+      "subject": "SE",
+      "catalog_number": "463",
+      "units": 0.5,
+      "title": "Software Requirements Specification and Analysis"
+    },
+    {
+      "subject": "SE",
+      "catalog_number": "490",
+      "units": 0.5,
+      "title": "Design Project 1"
+    },
+    {
+      "subject": "SE",
+      "catalog_number": "499",
+      "units": 0.5,
+      "title": "Project"
+    },
+    {
+      "subject": "SI",
+      "catalog_number": "101R",
+      "units": 0.5,
+      "title": "Introduction to Arabic 1"
+    },
+    {
+      "subject": "SI",
+      "catalog_number": "102R",
+      "units": 0.5,
+      "title": "Introduction to Arabic 2"
+    },
+    {
+      "subject": "SMF",
+      "catalog_number": "206",
+      "units": 0.5,
+      "title": "Couples, Marriages, and Families"
+    },
+    {
+      "subject": "SOC",
+      "catalog_number": "101R",
+      "units": 0.5,
+      "title": "Introduction to Sociology"
+    },
+    {
+      "subject": "SOC",
+      "catalog_number": "203W",
+      "units": 1,
+      "title": "Sociological Theory (WLU)"
+    },
+    {
+      "subject": "SOC",
+      "catalog_number": "207",
+      "units": 0.5,
+      "title": "Sociology of Education"
+    },
+    {
+      "subject": "SOC",
+      "catalog_number": "210",
+      "units": 0.5,
+      "title": "Sociology of Sport"
+    },
+    {
+      "subject": "SOC",
+      "catalog_number": "224R",
+      "units": 0.5,
+      "title": "Poverty in Canada and its Social Consequences"
+    },
+    {
+      "subject": "SOC",
+      "catalog_number": "227",
+      "units": 0.5,
+      "title": "Criminology"
+    },
+    {
+      "subject": "SOC",
+      "catalog_number": "229",
+      "units": 0.5,
+      "title": "Selected Topics in Criminology"
+    },
+    {
+      "subject": "SOC",
+      "catalog_number": "246",
+      "units": 0.5,
+      "title": "Mass Communication"
+    },
+    {
+      "subject": "SOC",
+      "catalog_number": "327",
+      "units": 0.5,
+      "title": "Policing in a Democratic Society"
+    },
+    {
+      "subject": "SOC",
+      "catalog_number": "370",
+      "units": 0.5,
+      "title": "Sociology of Law"
+    },
+    {
+      "subject": "SOC",
+      "catalog_number": "398R",
+      "units": 0.5,
+      "title": "Independent Study"
+    },
+    {
+      "subject": "SOC",
+      "catalog_number": "399R",
+      "units": 0.5,
+      "title": "Independent Study"
+    },
+    {
+      "subject": "SOC",
+      "catalog_number": "490R",
+      "units": 0.5,
+      "title": "Special Studies"
+    },
+    {
+      "subject": "SOC",
+      "catalog_number": "498",
+      "units": 0.5,
+      "title": "Directed Studies"
+    },
+    {
+      "subject": "SOC",
+      "catalog_number": "499A",
+      "units": 0.5,
+      "title": "Senior Honours Essay"
+    },
+    {
+      "subject": "SOC",
+      "catalog_number": "499B",
+      "units": 0.5,
+      "title": "Senior Honours Essay"
+    },
+    {
+      "subject": "SOC",
+      "catalog_number": "789",
+      "units": 0.5,
+      "title": "Graduate Readings in Sociology"
+    },
+    {
+      "subject": "SOCIN",
+      "catalog_number": "604",
+      "units": 0.5,
+      "title": "Scaling Innovation for Greater Impact: social finance, social marketing, public policy development"
+    },
+    {
+      "subject": "SOCIN",
+      "catalog_number": "605",
+      "units": 0.5,
+      "title": "Social Innovation Project"
+    },
+    {
+      "subject": "SOCWK",
+      "catalog_number": "120R",
+      "units": 0.5,
+      "title": "Introduction to Social Work"
+    },
+    {
+      "subject": "SOCWK",
+      "catalog_number": "220R",
+      "units": 0.5,
+      "title": "Social Work with Individuals - Theory and Practice 1"
+    },
+    {
+      "subject": "SOCWK",
+      "catalog_number": "221R",
+      "units": 0.5,
+      "title": "Social Group Work"
+    },
+    {
+      "subject": "SOCWK",
+      "catalog_number": "222R",
+      "units": 0.5,
+      "title": "Community Organization 1"
+    },
+    {
+      "subject": "SOCWK",
+      "catalog_number": "300R",
+      "units": 0.5,
+      "title": "Canadian Social Welfare Policy"
+    },
+    {
+      "subject": "SOCWK",
+      "catalog_number": "301R",
+      "units": 0.5,
+      "title": "Understanding Diversity in Canada"
+    },
+    {
+      "subject": "SOCWK",
+      "catalog_number": "321R",
+      "units": 0.5,
+      "title": "Social Work with Families"
+    },
+    {
+      "subject": "SOCWK",
+      "catalog_number": "355R",
+      "units": 0.5,
+      "title": "Child Maltreatment: Identification and Prevention"
+    },
+    {
+      "subject": "SOCWK",
+      "catalog_number": "398R",
+      "units": 0.5,
+      "title": "Independent Study"
+    },
+    {
+      "subject": "SOCWK",
+      "catalog_number": "399R",
+      "units": 0.5,
+      "title": "Independent Study"
+    },
+    {
+      "subject": "SOCWK",
+      "catalog_number": "490R",
+      "units": 0.5,
+      "title": "Special Studies"
+    },
+    {
+      "subject": "SPAN",
+      "catalog_number": "101",
+      "units": 0.5,
+      "title": "Introduction to Spanish 1"
+    },
+    {
+      "subject": "SPAN",
+      "catalog_number": "102",
+      "units": 0.5,
+      "title": "Introduction to Spanish 2"
+    },
+    {
+      "subject": "SPAN",
+      "catalog_number": "201W",
+      "units": 0.5,
+      "title": "Intermediate Spanish 1 (WLU)"
+    },
+    {
+      "subject": "SPCOM",
+      "catalog_number": "100",
+      "units": 0.5,
+      "title": "Interpersonal Communication"
+    },
+    {
+      "subject": "SPCOM",
+      "catalog_number": "223",
+      "units": 0.5,
+      "title": "Public Speaking"
+    },
+    {
+      "subject": "SPCOM",
+      "catalog_number": "228",
+      "units": 0.5,
+      "title": "Public Communication"
+    },
+    {
+      "subject": "SPCOM",
+      "catalog_number": "431",
+      "units": 0.5,
+      "title": "Crisis Communication"
+    },
+    {
+      "subject": "STAT",
+      "catalog_number": "230",
+      "units": 0.5,
+      "title": "Probability"
+    },
+    {
+      "subject": "STAT",
+      "catalog_number": "231",
+      "units": 0.5,
+      "title": "Statistics"
+    },
+    {
+      "subject": "STAT",
+      "catalog_number": "330",
+      "units": 0.5,
+      "title": "Mathematical Statistics"
+    },
+    {
+      "subject": "STAT",
+      "catalog_number": "331",
+      "units": 0.5,
+      "title": "Applied Linear Models"
+    },
+    {
+      "subject": "STAT",
+      "catalog_number": "332",
+      "units": 0.5,
+      "title": "Sampling and Experimental Design"
+    },
+    {
+      "subject": "STAT",
+      "catalog_number": "333",
+      "units": 0.5,
+      "title": "Applied Probability"
+    },
+    {
+      "subject": "STAT",
+      "catalog_number": "334",
+      "units": 0.5,
+      "title": "Probability Models for Business and Accounting"
+    },
+    {
+      "subject": "STAT",
+      "catalog_number": "340",
+      "units": 0.5,
+      "title": "Computer Simulation of Complex Systems"
+    },
+    {
+      "subject": "STAT",
+      "catalog_number": "371",
+      "units": 0.5,
+      "title": "Applied Linear Models and Process Improvement for Business"
+    },
+    {
+      "subject": "STAT",
+      "catalog_number": "372",
+      "units": 0.5,
+      "title": "Survey Sampling and Experimental Design Techniques for Business"
+    },
+    {
+      "subject": "STAT",
+      "catalog_number": "430",
+      "units": 0.5,
+      "title": "Experimental Design"
+    },
+    {
+      "subject": "STAT",
+      "catalog_number": "431",
+      "units": 0.5,
+      "title": "Generalized Linear Models and their Applications"
+    },
+    {
+      "subject": "STAT",
+      "catalog_number": "443",
+      "units": 0.5,
+      "title": "Forecasting"
+    },
+    {
+      "subject": "STAT",
+      "catalog_number": "830",
+      "units": 0.5,
+      "title": "Experimental Design"
+    },
+    {
+      "subject": "STAT",
+      "catalog_number": "929",
+      "units": 0.5,
+      "title": "Time Series 1"
+    },
+    {
+      "subject": "STAT",
+      "catalog_number": "938",
+      "units": 0.5,
+      "title": "Statistical Consulting"
+    },
+    {
+      "subject": "STAT",
+      "catalog_number": "946",
+      "units": 0.5,
+      "title": "Topics in Probability and Statistics"
+    },
+    {
+      "subject": "STV",
+      "catalog_number": "100",
+      "units": 0.5,
+      "title": "Society, Technology and Values: Introduction"
+    },
+    {
+      "subject": "STV",
+      "catalog_number": "202",
+      "units": 0.5,
+      "title": "Design and Society"
+    },
+    {
+      "subject": "STV",
+      "catalog_number": "400",
+      "units": 0.5,
+      "title": "Society, Technology and Values: Senior Project"
+    },
+    {
+      "subject": "SUSM",
+      "catalog_number": "675",
+      "units": 0.5,
+      "title": "Reading Course"
+    },
+    {
+      "subject": "SWK",
+      "catalog_number": "601R",
+      "units": 0.5,
+      "title": "Health Policy"
+    },
+    {
+      "subject": "SWK",
+      "catalog_number": "608R",
+      "units": 0.5,
+      "title": "Health Issues and Ethics"
+    },
+    {
+      "subject": "SWK",
+      "catalog_number": "609R",
+      "units": 0.5,
+      "title": "Social Work Practice in Mental Health"
+    },
+    {
+      "subject": "SWREN",
+      "catalog_number": "120R",
+      "units": 0.5,
+      "title": "Introduction to Social Work"
+    },
+    {
+      "subject": "SWREN",
+      "catalog_number": "220R",
+      "units": 0.5,
+      "title": "Social Work with Individuals - Theory and Practice 1"
+    },
+    {
+      "subject": "SWREN",
+      "catalog_number": "221R",
+      "units": 0.5,
+      "title": "Social Group Work"
+    },
+    {
+      "subject": "SWREN",
+      "catalog_number": "222R",
+      "units": 0.5,
+      "title": "Community Organization 1"
+    },
+    {
+      "subject": "SWREN",
+      "catalog_number": "224R",
+      "units": 0.5,
+      "title": "Poverty in Canada and its Social Consequences"
+    },
+    {
+      "subject": "SWREN",
+      "catalog_number": "251R",
+      "units": 0.5,
+      "title": "Social Research"
+    },
+    {
+      "subject": "SWREN",
+      "catalog_number": "300R",
+      "units": 0.5,
+      "title": "Canadian Social Welfare Policy"
+    },
+    {
+      "subject": "SWREN",
+      "catalog_number": "301R",
+      "units": 0.5,
+      "title": "Understanding Diversity in Canada"
+    },
+    {
+      "subject": "SWREN",
+      "catalog_number": "321R",
+      "units": 0.5,
+      "title": "Social Work with Families"
+    },
+    {
+      "subject": "SWREN",
+      "catalog_number": "411R",
+      "units": 0.5,
+      "title": "Integrative Practice: Aboriginal Perspectives and Social Work"
+    },
+    {
+      "subject": "SWREN",
+      "catalog_number": "422R",
+      "units": 0.5,
+      "title": "Advanced Macro Practice"
+    },
+    {
+      "subject": "SWREN",
+      "catalog_number": "431R",
+      "units": 0.5,
+      "title": "Fields of Practice"
+    },
+    {
+      "subject": "SWREN",
+      "catalog_number": "441A",
+      "units": 0.5,
+      "title": "Practicum 1A"
+    },
+    {
+      "subject": "SWREN",
+      "catalog_number": "441B",
+      "units": 0.5,
+      "title": "Practicum 1B"
+    },
+    {
+      "subject": "SWREN",
+      "catalog_number": "441R",
+      "units": 1,
+      "title": "Practicum 1"
+    },
+    {
+      "subject": "SWREN",
+      "catalog_number": "442A",
+      "units": 0.5,
+      "title": "Practicum 2A"
+    },
+    {
+      "subject": "SWREN",
+      "catalog_number": "442B",
+      "units": 0.5,
+      "title": "Practicum 2B"
+    },
+    {
+      "subject": "SWREN",
+      "catalog_number": "442R",
+      "units": 1,
+      "title": "Practicum 2"
+    },
+    {
+      "subject": "SWREN",
+      "catalog_number": "443A",
+      "units": 0.5,
+      "title": "Practicum 3A"
+    },
+    {
+      "subject": "SWREN",
+      "catalog_number": "443B",
+      "units": 0.5,
+      "title": "Practicum 3B"
+    },
+    {
+      "subject": "SWREN",
+      "catalog_number": "443R",
+      "units": 1,
+      "title": "Practicum 3"
+    },
+    {
+      "subject": "SWREN",
+      "catalog_number": "470R",
+      "units": 0.5,
+      "title": "Mental Health and Addiction Issues: Social Work Responses"
+    },
+    {
+      "subject": "SWREN",
+      "catalog_number": "471R",
+      "units": 0.5,
+      "title": "Social Work with Older Adults: Critical Issues and Future Trends"
+    },
+    {
+      "subject": "SYDE",
+      "catalog_number": "102",
+      "units": 0,
+      "title": "Seminar"
+    },
+    {
+      "subject": "SYDE",
+      "catalog_number": "112",
+      "units": 0.5,
+      "title": "Fundamental Engineering Math 2"
+    },
+    {
+      "subject": "SYDE",
+      "catalog_number": "114",
+      "units": 0.25,
+      "title": "Numerical and Applied Calculus"
+    },
+    {
+      "subject": "SYDE",
+      "catalog_number": "162",
+      "units": 0.5,
+      "title": "Human Factors in Design"
+    },
+    {
+      "subject": "SYDE",
+      "catalog_number": "182",
+      "units": 0.5,
+      "title": "Physics 2 (Dynamics)"
+    },
+    {
+      "subject": "SYDE",
+      "catalog_number": "192",
+      "units": 0.5,
+      "title": "Digital Systems"
+    },
+    {
+      "subject": "SYDE",
+      "catalog_number": "192L",
+      "units": 0.25,
+      "title": "Digital Systems Laboratory"
+    },
+    {
+      "subject": "SYDE",
+      "catalog_number": "211",
+      "units": 0.5,
+      "title": "Advanced Engineering Math 1"
+    },
+    {
+      "subject": "SYDE",
+      "catalog_number": "252",
+      "units": 0.5,
+      "title": "Linear Systems and Signals"
+    },
+    {
+      "subject": "SYDE",
+      "catalog_number": "283",
+      "units": 0.5,
+      "title": "Physics 3 (Electricity, Magnetism and Optics)"
+    },
+    {
+      "subject": "SYDE",
+      "catalog_number": "301",
+      "units": 0,
+      "title": "Seminar"
+    },
+    {
+      "subject": "SYDE",
+      "catalog_number": "311",
+      "units": 0.5,
+      "title": "Advanced Engineering Math 2"
+    },
+    {
+      "subject": "SYDE",
+      "catalog_number": "351",
+      "units": 0.5,
+      "title": "Systems Models 1"
+    },
+    {
+      "subject": "SYDE",
+      "catalog_number": "361",
+      "units": 0.5,
+      "title": "Engineering Design"
+    },
+    {
+      "subject": "SYDE",
+      "catalog_number": "381",
+      "units": 0.5,
+      "title": "Thermodynamics"
+    },
+    {
+      "subject": "SYDE",
+      "catalog_number": "383",
+      "units": 0.5,
+      "title": "Fluid Mechanics"
+    },
+    {
+      "subject": "SYDE",
+      "catalog_number": "661",
+      "units": 0.5,
+      "title": "Model-Based Robust Design"
+    },
+    {
+      "subject": "TAX",
+      "catalog_number": "625",
+      "units": 0.5,
+      "title": "Tax Policy"
+    },
+    {
+      "subject": "TAX",
+      "catalog_number": "627",
+      "units": 0.5,
+      "title": "International Tax I"
+    },
+    {
+      "subject": "TAX",
+      "catalog_number": "628",
+      "units": 0.5,
+      "title": "Tax Planning for the Owner-Manager and Executive"
+    },
+    {
+      "subject": "TAX",
+      "catalog_number": "629",
+      "units": 0.5,
+      "title": "Tax Risk Management"
+    },
+    {
+      "subject": "TN",
+      "catalog_number": "700",
+      "units": 0.5,
+      "title": "Theoretical Neuroscience Research Seminar"
+    },
+    {
+      "subject": "TOUR",
+      "catalog_number": "609",
+      "units": 0.5,
+      "title": "Practicum in Tourism"
+    },
+    {
+      "subject": "TPM",
+      "catalog_number": "1X000",
+      "units": 0,
+      "title": "Technical Presentation"
+    },
+    {
+      "subject": "TS",
+      "catalog_number": "678",
+      "units": 0.5,
+      "title": "The Minister in the Church: Supervised Experience in Ministry I"
+    },
+    {
+      "subject": "TS",
+      "catalog_number": "679",
+      "units": 0.5,
+      "title": "The Minister in the Church: Supervised Experience in Ministry II"
+    },
+    {
+      "subject": "TS",
+      "catalog_number": "690",
+      "units": 0.5,
+      "title": "Seminars in Theological Studies"
+    },
+    {
+      "subject": "TS",
+      "catalog_number": "691",
+      "units": 0.5,
+      "title": "Selected Special Topics in Theological Studies"
+    },
+    {
+      "subject": "TS",
+      "catalog_number": "796",
+      "units": 1.5,
+      "title": "Thesis Preparation"
+    },
+    {
+      "subject": "TS",
+      "catalog_number": "798",
+      "units": 1,
+      "title": "Thesis Preparation"
+    },
+    {
+      "subject": "WHMIS",
+      "catalog_number": "1X000",
+      "units": 0,
+      "title": "Wrkpl Hazard Material Info Sys"
+    },
+    {
+      "subject": "WKRPT",
+      "catalog_number": "100",
+      "units": 0.13,
+      "title": "Work-term Report"
+    },
+    {
+      "subject": "WKRPT",
+      "catalog_number": "200",
+      "units": 0.13,
+      "title": "Work-term Report"
+    },
+    {
+      "subject": "WKRPT",
+      "catalog_number": "200M",
+      "units": 0.13,
+      "title": "Work-term Report"
+    },
+    {
+      "subject": "WKRPT",
+      "catalog_number": "201",
+      "units": 0.13,
+      "title": "Work-term Report"
+    },
+    {
+      "subject": "WKRPT",
+      "catalog_number": "300",
+      "units": 0.13,
+      "title": "Work-term Report"
+    },
+    {
+      "subject": "WKRPT",
+      "catalog_number": "300M",
+      "units": 0.13,
+      "title": "Work-term Report"
+    },
+    {
+      "subject": "WKRPT",
+      "catalog_number": "301",
+      "units": 0.13,
+      "title": "Work-term Report"
+    },
+    {
+      "subject": "WKRPT",
+      "catalog_number": "400",
+      "units": 0.13,
+      "title": "Work-term Report"
+    },
+    {
+      "subject": "WKRPT",
+      "catalog_number": "400M",
+      "units": 0.13,
+      "title": "Work-term Report"
+    },
+    {
+      "subject": "WKRPT",
+      "catalog_number": "401",
+      "units": 0.13,
+      "title": "Work-term Report"
+    },
+    {
+      "subject": "WS",
+      "catalog_number": "101",
+      "units": 0.5,
+      "title": "An Introduction to Women's Studies"
+    },
+    {
+      "subject": "WS",
+      "catalog_number": "222",
+      "units": 0.5,
+      "title": "Gender Issues"
+    },
+    {
+      "subject": "WS",
+      "catalog_number": "308",
+      "units": 0.5,
+      "title": "Gender and Leisure"
+    }
+  ]
+}
